@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>Project0</title>
+</head>
+<body>
+
+<ul>
+    {% for item in list %}
+    <li>{{item.name}}</li>
+    <ul>
+        <li>Size: {{item.size}}</li>
+        <li>Path: {{item.path}}</li>
+        {% for rev in rev_list %}
+            <li>Revisions: {{rev.name}}</li>
+            <ul>
+                <li>Author: {{rev.author}}</li>
+                <li>Info: {{rev.msg}}</li>
+                <li>Date: {{rev.date}} </li>
+            </ul>
+        {%endfor%}
+    </ul>
+    <iframe src = {{item.path}}></iframe>
+
+    {% endfor %}
+</ul>
+
+</body>
+</html>

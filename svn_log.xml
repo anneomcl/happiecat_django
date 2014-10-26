@@ -1,0 +1,1714 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<log>
+    <logentry revision="7734">
+        <author>aomclau2</author>
+        <date>2014-10-22T18:46:01.628727Z</date>
+        <paths>
+            <path kind="dir" copyfrom-path="/aomclau2/Assignment2.1_update" copyfrom-rev="7733" action="A">/aomclau2/Assignment2.1</path>
+            <path action="D" kind="dir">/aomclau2/Assignment2.1_update</path>
+        </paths>
+        <msg />
+    </logentry>
+    <logentry revision="7733">
+        <author>aomclau2</author>
+        <date>2014-10-22T18:45:15.516263Z</date>
+        <paths>
+            <path action="D" kind="dir">/aomclau2/Assignment2.1</path>
+        </paths>
+        <msg />
+    </logentry>
+    <logentry revision="7732">
+        <author>aomclau2</author>
+        <date>2014-10-22T18:44:39.881692Z</date>
+        <paths>
+            <path action="D" kind="dir">/aomclau2/shopping</path>
+        </paths>
+        <msg />
+    </logentry>
+    <logentry revision="7731">
+        <author>aomclau2</author>
+        <date>2014-10-22T18:44:17.811900Z</date>
+        <paths>
+            <path action="D" kind="dir">/aomclau2/Assignment0</path>
+        </paths>
+        <msg />
+    </logentry>
+    <logentry revision="7730">
+        <author>aomclau2</author>
+        <date>2014-10-22T18:44:07.300800Z</date>
+        <paths>
+            <path kind="dir" action="D">/aomclau2/HW0</path>
+        </paths>
+        <msg />
+    </logentry>
+    <logentry revision="7729">
+        <author>aomclau2</author>
+        <date>2014-10-22T18:43:55.094733Z</date>
+        <paths>
+            <path kind="file" action="D">/aomclau2/Doxyfile</path>
+        </paths>
+        <msg />
+    </logentry>
+    <logentry revision="7728">
+        <author>aomclau2</author>
+        <date>2014-10-22T18:43:45.583301Z</date>
+        <paths>
+            <path action="D" kind="dir">/aomclau2/Doxygen</path>
+        </paths>
+        <msg />
+    </logentry>
+    <logentry revision="7689">
+        <author>aomclau2</author>
+        <date>2014-10-21T19:43:04.935658Z</date>
+        <paths>
+            <path action="D" kind="dir">/aomclau2/.idea</path>
+        </paths>
+        <msg />
+    </logentry>
+    <logentry revision="7688">
+        <author>aomclau2</author>
+        <date>2014-10-21T19:42:41.699578Z</date>
+        <paths>
+            <path kind="dir" copyfrom-path="/aomclau2/Part 5 GUI Test Plan" copyfrom-rev="7687" action="A">/aomclau2/Assignment1.1/Part 5 GUI Test Plan</path>
+            <path action="D" kind="dir">/aomclau2/Part 5 GUI Test Plan</path>
+        </paths>
+        <msg />
+    </logentry>
+    <logentry revision="7687">
+        <author>aomclau2</author>
+        <date>2014-10-21T19:39:17.552439Z</date>
+        <paths>
+            <path kind="file" action="D">/aomclau2/improvements.txt</path>
+        </paths>
+        <msg />
+    </logentry>
+    <logentry revision="7686">
+        <author>aomclau2</author>
+        <date>2014-10-21T19:39:07.159685Z</date>
+        <paths>
+            <path kind="dir" action="D">/aomclau2/src</path>
+        </paths>
+        <msg />
+    </logentry>
+    <logentry revision="7685">
+        <author>aomclau2</author>
+        <date>2014-10-21T19:38:47.637949Z</date>
+        <paths>
+            <path action="D" kind="file">/aomclau2/Assignment1.0.iml</path>
+        </paths>
+        <msg />
+    </logentry>
+    <logentry revision="7317">
+        <author>aomclau2</author>
+        <date>2014-10-17T01:26:05.231969Z</date>
+        <paths>
+            <path kind="dir" action="A">/aomclau2/Assignment2.2</path>
+            <path action="A" kind="dir">/aomclau2/Assignment2.2/.idea</path>
+            <path action="A" kind="file">/aomclau2/Assignment2.2/.idea/.name</path>
+            <path action="A" kind="file">/aomclau2/Assignment2.2/.idea/Assignment2.iml</path>
+            <path action="A" kind="file">/aomclau2/Assignment2.2/.idea/encodings.xml</path>
+            <path kind="dir" action="A">/aomclau2/Assignment2.2/.idea/inspectionProfiles</path>
+            <path kind="file" action="A">/aomclau2/Assignment2.2/.idea/inspectionProfiles/Project_Default.xml</path>
+            <path kind="file" action="A">/aomclau2/Assignment2.2/.idea/inspectionProfiles/profiles_settings.xml</path>
+            <path kind="file" action="A">/aomclau2/Assignment2.2/.idea/misc.xml</path>
+            <path kind="file" action="A">/aomclau2/Assignment2.2/.idea/modules.xml</path>
+            <path action="A" kind="dir">/aomclau2/Assignment2.2/.idea/scopes</path>
+            <path action="A" kind="file">/aomclau2/Assignment2.2/.idea/scopes/scope_settings.xml</path>
+            <path action="A" kind="file">/aomclau2/Assignment2.2/.idea/vcs.xml</path>
+            <path action="A" kind="file">/aomclau2/Assignment2.2/Edge.py</path>
+            <path action="A" kind="file">/aomclau2/Assignment2.2/Graph.py</path>
+            <path kind="file" action="A">/aomclau2/Assignment2.2/ManualTestPlan.txt</path>
+            <path kind="file" action="A">/aomclau2/Assignment2.2/Node.py</path>
+            <path kind="file" action="A">/aomclau2/Assignment2.2/cmi_hub.json</path>
+            <path kind="file" action="A">/aomclau2/Assignment2.2/map.gif</path>
+            <path kind="file" action="A">/aomclau2/Assignment2.2/map.jpg</path>
+            <path kind="file" action="A">/aomclau2/Assignment2.2/map_data.json</path>
+            <path action="A" kind="file">/aomclau2/Assignment2.2/map_data_edit.json</path>
+            <path action="A" kind="file">/aomclau2/Assignment2.2/simple_gui.py</path>
+            <path action="A" kind="file">/aomclau2/Assignment2.2/test</path>
+            <path action="A" kind="file">/aomclau2/Assignment2.2/test_graph.py</path>
+        </paths>
+        <msg>initial commit</msg>
+    </logentry>
+    <logentry revision="6888">
+        <author>aomclau2</author>
+        <date>2014-10-13T08:22:06.747021Z</date>
+        <paths>
+            <path action="A" kind="dir">/aomclau2/Assignment2.1_update</path>
+            <path kind="dir" action="A">/aomclau2/Assignment2.1_update/.idea</path>
+            <path kind="file" action="A">/aomclau2/Assignment2.1_update/.idea/.name</path>
+            <path kind="file" action="A">/aomclau2/Assignment2.1_update/.idea/Assignment2.iml</path>
+            <path kind="file" action="A">/aomclau2/Assignment2.1_update/.idea/encodings.xml</path>
+            <path kind="dir" action="A">/aomclau2/Assignment2.1_update/.idea/inspectionProfiles</path>
+            <path action="A" kind="file">/aomclau2/Assignment2.1_update/.idea/inspectionProfiles/Project_Default.xml</path>
+            <path action="A" kind="file">/aomclau2/Assignment2.1_update/.idea/inspectionProfiles/profiles_settings.xml</path>
+            <path action="A" kind="file">/aomclau2/Assignment2.1_update/.idea/misc.xml</path>
+            <path action="A" kind="file">/aomclau2/Assignment2.1_update/.idea/modules.xml</path>
+            <path kind="dir" action="A">/aomclau2/Assignment2.1_update/.idea/scopes</path>
+            <path kind="file" action="A">/aomclau2/Assignment2.1_update/.idea/scopes/scope_settings.xml</path>
+            <path kind="file" action="A">/aomclau2/Assignment2.1_update/.idea/vcs.xml</path>
+            <path kind="file" action="A">/aomclau2/Assignment2.1_update/Edge.py</path>
+            <path kind="file" action="A">/aomclau2/Assignment2.1_update/Graph.py</path>
+            <path kind="file" action="A">/aomclau2/Assignment2.1_update/Node.py</path>
+            <path action="A" kind="file">/aomclau2/Assignment2.1_update/cmi_hub.json</path>
+            <path action="A" kind="file">/aomclau2/Assignment2.1_update/map.gif</path>
+            <path action="A" kind="file">/aomclau2/Assignment2.1_update/map.jpg</path>
+            <path action="A" kind="file">/aomclau2/Assignment2.1_update/map_data.json</path>
+            <path action="A" kind="file">/aomclau2/Assignment2.1_update/map_data_edit.json</path>
+            <path kind="file" action="A">/aomclau2/Assignment2.1_update/simple_gui.py</path>
+            <path kind="file" action="A">/aomclau2/Assignment2.1_update/test</path>
+            <path kind="file" action="A">/aomclau2/Assignment2.1_update/test_graph.py</path>
+        </paths>
+        <msg>initial commit</msg>
+    </logentry>
+    <logentry revision="6705">
+        <author>aomclau2</author>
+        <date>2014-10-10T16:52:41.133911Z</date>
+        <paths>
+            <path action="A" kind="dir">/aomclau2/Assignment2.1</path>
+            <path action="A" kind="dir">/aomclau2/Assignment2.1/.idea</path>
+            <path action="A" kind="file">/aomclau2/Assignment2.1/.idea/.name</path>
+            <path action="A" kind="file">/aomclau2/Assignment2.1/.idea/Assignment2.iml</path>
+            <path action="A" kind="file">/aomclau2/Assignment2.1/.idea/encodings.xml</path>
+            <path kind="file" action="A">/aomclau2/Assignment2.1/.idea/misc.xml</path>
+            <path kind="file" action="A">/aomclau2/Assignment2.1/.idea/modules.xml</path>
+            <path kind="dir" action="A">/aomclau2/Assignment2.1/.idea/scopes</path>
+            <path kind="file" action="A">/aomclau2/Assignment2.1/.idea/scopes/scope_settings.xml</path>
+            <path kind="file" action="A">/aomclau2/Assignment2.1/.idea/vcs.xml</path>
+            <path action="A" kind="file">/aomclau2/Assignment2.1/Edge.py</path>
+            <path action="A" kind="file">/aomclau2/Assignment2.1/Graph.py</path>
+            <path action="A" kind="file">/aomclau2/Assignment2.1/Node.py</path>
+            <path action="A" kind="file">/aomclau2/Assignment2.1/cmi_hub.json</path>
+            <path action="A" kind="file">/aomclau2/Assignment2.1/map_data.json</path>
+            <path kind="file" action="A">/aomclau2/Assignment2.1/map_data_edit.json</path>
+            <path kind="file" action="A">/aomclau2/Assignment2.1/test</path>
+            <path kind="file" action="A">/aomclau2/Assignment2.1/test_graph.py</path>
+        </paths>
+        <msg>initial commit</msg>
+    </logentry>
+    <logentry revision="6065">
+        <author>aomclau2</author>
+        <date>2014-10-03T16:25:41.114070Z</date>
+        <paths>
+            <path kind="dir" action="A">/aomclau2/Assignment2.0</path>
+            <path kind="dir" action="A">/aomclau2/Assignment2.0/.idea</path>
+            <path action="A" kind="file">/aomclau2/Assignment2.0/.idea/.name</path>
+            <path action="A" kind="file">/aomclau2/Assignment2.0/.idea/Assignment2.iml</path>
+            <path action="A" kind="file">/aomclau2/Assignment2.0/.idea/encodings.xml</path>
+            <path action="A" kind="file">/aomclau2/Assignment2.0/.idea/misc.xml</path>
+            <path action="A" kind="file">/aomclau2/Assignment2.0/.idea/modules.xml</path>
+            <path kind="dir" action="A">/aomclau2/Assignment2.0/.idea/scopes</path>
+            <path kind="file" action="A">/aomclau2/Assignment2.0/.idea/scopes/scope_settings.xml</path>
+            <path kind="file" action="A">/aomclau2/Assignment2.0/.idea/vcs.xml</path>
+            <path kind="file" action="A">/aomclau2/Assignment2.0/Edge.py</path>
+            <path kind="file" action="A">/aomclau2/Assignment2.0/Graph.py</path>
+            <path action="A" kind="file">/aomclau2/Assignment2.0/Node.py</path>
+            <path action="A" kind="file">/aomclau2/Assignment2.0/map_data.json</path>
+            <path action="A" kind="file">/aomclau2/Assignment2.0/test_graph.py</path>
+        </paths>
+        <msg>initial commit</msg>
+    </logentry>
+    <logentry revision="5186">
+        <author>aomclau2</author>
+        <date>2014-09-26T08:24:17.134726Z</date>
+        <paths>
+            <path kind="dir" action="A">/aomclau2/Assignment1.2/.idea</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.2/.idea/.name</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.2/.idea/compiler.xml</path>
+            <path kind="dir" action="A">/aomclau2/Assignment1.2/.idea/copyright</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.2/.idea/copyright/profiles_settings.xml</path>
+            <path action="A" kind="dir">/aomclau2/Assignment1.2/.idea/dictionaries</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.2/.idea/dictionaries/Anne.xml</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.2/.idea/encodings.xml</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.2/.idea/misc.xml</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.2/.idea/modules.xml</path>
+            <path kind="dir" action="A">/aomclau2/Assignment1.2/.idea/scopes</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.2/.idea/scopes/scope_settings.xml</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.2/.idea/uiDesigner.xml</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.2/.idea/vcs.xml</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.2/.idea/workspace.xml</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.2/Assignment1.0.iml</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.2/Assignment1.2.iml</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.2/Doxyfile</path>
+            <path kind="dir" action="A">/aomclau2/Assignment1.2/Doxygen</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.2/Doxygen/annotated.html</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.2/Doxygen/bc_s.png</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.2/Doxygen/bdwn.png</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.2/Doxygen/class_exceptions_1_1_invalid_movement_exception-members.html</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.2/Doxygen/class_exceptions_1_1_invalid_movement_exception.html</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.2/Doxygen/class_exceptions_1_1_invalid_movement_exception.png</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.2/Doxygen/class_g_u_i_1_1_chess_board_g_u_i-members.html</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.2/Doxygen/class_g_u_i_1_1_chess_board_g_u_i.html</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.2/Doxygen/class_g_u_i_1_1_chess_board_g_u_i_1_1_cell_pane-members.html</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.2/Doxygen/class_g_u_i_1_1_chess_board_g_u_i_1_1_cell_pane.html</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.2/Doxygen/class_g_u_i_1_1_chess_board_g_u_i_1_1_cell_pane.png</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.2/Doxygen/class_g_u_i_1_1_chess_board_g_u_i_1_1_chess_window-members.html</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.2/Doxygen/class_g_u_i_1_1_chess_board_g_u_i_1_1_chess_window.html</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.2/Doxygen/class_g_u_i_1_1_chess_board_g_u_i_1_1_chess_window.png</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.2/Doxygen/class_game_1_1_board-members.html</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.2/Doxygen/class_game_1_1_board.html</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.2/Doxygen/class_game_1_1_game-members.html</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.2/Doxygen/class_game_1_1_game.html</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.2/Doxygen/class_game_1_1_location-members.html</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.2/Doxygen/class_game_1_1_location.html</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.2/Doxygen/class_game_1_1_piece_types.html</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.2/Doxygen/class_game_1_1_player-members.html</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.2/Doxygen/class_game_1_1_player.html</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.2/Doxygen/class_pieces_1_1_bishop-members.html</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.2/Doxygen/class_pieces_1_1_bishop.html</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.2/Doxygen/class_pieces_1_1_bishop.png</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.2/Doxygen/class_pieces_1_1_king-members.html</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.2/Doxygen/class_pieces_1_1_king.html</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.2/Doxygen/class_pieces_1_1_king.png</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.2/Doxygen/class_pieces_1_1_knight-members.html</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.2/Doxygen/class_pieces_1_1_knight.html</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.2/Doxygen/class_pieces_1_1_knight.png</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.2/Doxygen/class_pieces_1_1_pawn-members.html</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.2/Doxygen/class_pieces_1_1_pawn.html</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.2/Doxygen/class_pieces_1_1_pawn.png</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.2/Doxygen/class_pieces_1_1_piece-members.html</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.2/Doxygen/class_pieces_1_1_piece.html</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.2/Doxygen/class_pieces_1_1_piece.png</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.2/Doxygen/class_pieces_1_1_princess-members.html</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.2/Doxygen/class_pieces_1_1_princess.html</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.2/Doxygen/class_pieces_1_1_princess.png</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.2/Doxygen/class_pieces_1_1_queen-members.html</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.2/Doxygen/class_pieces_1_1_queen.html</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.2/Doxygen/class_pieces_1_1_queen.png</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.2/Doxygen/class_pieces_1_1_rook-members.html</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.2/Doxygen/class_pieces_1_1_rook.html</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.2/Doxygen/class_pieces_1_1_rook.png</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.2/Doxygen/class_pieces_1_1_zergling-members.html</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.2/Doxygen/class_pieces_1_1_zergling.html</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.2/Doxygen/class_pieces_1_1_zergling.png</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.2/Doxygen/class_tests_1_1_bishop_tests-members.html</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.2/Doxygen/class_tests_1_1_bishop_tests.html</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.2/Doxygen/class_tests_1_1_board_tests-members.html</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.2/Doxygen/class_tests_1_1_board_tests.html</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.2/Doxygen/class_tests_1_1_checkmate_tests-members.html</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.2/Doxygen/class_tests_1_1_checkmate_tests.html</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.2/Doxygen/class_tests_1_1_king_tests-members.html</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.2/Doxygen/class_tests_1_1_king_tests.html</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.2/Doxygen/class_tests_1_1_knight_tests-members.html</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.2/Doxygen/class_tests_1_1_knight_tests.html</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.2/Doxygen/class_tests_1_1_pawn_tests-members.html</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.2/Doxygen/class_tests_1_1_pawn_tests.html</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.2/Doxygen/class_tests_1_1_queen_tests-members.html</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.2/Doxygen/class_tests_1_1_queen_tests.html</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.2/Doxygen/class_tests_1_1_rook_tests-members.html</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.2/Doxygen/class_tests_1_1_rook_tests.html</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.2/Doxygen/classes.html</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.2/Doxygen/closed.png</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.2/Doxygen/dir_4e4e2e75df7fa6971448b424c011c8b5.html</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.2/Doxygen/dir_68267d1309a1af8e8297ef4c3efbcdba.html</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.2/Doxygen/dir_6bd92bd93c0d5d9980919215b46f20a3.html</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.2/Doxygen/dir_839463272e7a6c2bc3177e29931a8d81.html</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.2/Doxygen/dir_a0d713cea12394a4c028036c439896df.html</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.2/Doxygen/dir_b43036362fece0f978c3c8156df55d19.html</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.2/Doxygen/doxygen.css</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.2/Doxygen/doxygen.png</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.2/Doxygen/dynsections.js</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.2/Doxygen/enum_game_1_1_board_1_1_board_type-members.html</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.2/Doxygen/enum_game_1_1_board_1_1_board_type.html</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.2/Doxygen/enum_game_1_1_piece_types_1_1_type-members.html</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.2/Doxygen/enum_game_1_1_piece_types_1_1_type.html</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.2/Doxygen/ftv2blank.png</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.2/Doxygen/ftv2doc.png</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.2/Doxygen/ftv2folderclosed.png</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.2/Doxygen/ftv2folderopen.png</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.2/Doxygen/ftv2lastnode.png</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.2/Doxygen/ftv2link.png</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.2/Doxygen/ftv2mlastnode.png</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.2/Doxygen/ftv2mnode.png</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.2/Doxygen/ftv2node.png</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.2/Doxygen/ftv2plastnode.png</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.2/Doxygen/ftv2pnode.png</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.2/Doxygen/ftv2splitbar.png</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.2/Doxygen/ftv2vertline.png</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.2/Doxygen/functions.html</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.2/Doxygen/functions_func.html</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.2/Doxygen/hierarchy.html</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.2/Doxygen/index.html</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.2/Doxygen/jquery.js</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.2/Doxygen/nav_f.png</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.2/Doxygen/nav_g.png</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.2/Doxygen/nav_h.png</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.2/Doxygen/open.png</path>
+            <path action="A" kind="dir">/aomclau2/Assignment1.2/Doxygen/search</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.2/Doxygen/search/all_0.html</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.2/Doxygen/search/all_0.js</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.2/Doxygen/search/all_1.html</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.2/Doxygen/search/all_1.js</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.2/Doxygen/search/all_2.html</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.2/Doxygen/search/all_2.js</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.2/Doxygen/search/all_3.html</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.2/Doxygen/search/all_3.js</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.2/Doxygen/search/all_4.html</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.2/Doxygen/search/all_4.js</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.2/Doxygen/search/all_5.html</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.2/Doxygen/search/all_5.js</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.2/Doxygen/search/all_6.html</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.2/Doxygen/search/all_6.js</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.2/Doxygen/search/all_7.html</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.2/Doxygen/search/all_7.js</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.2/Doxygen/search/all_8.html</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.2/Doxygen/search/all_8.js</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.2/Doxygen/search/all_9.html</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.2/Doxygen/search/all_9.js</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.2/Doxygen/search/all_a.html</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.2/Doxygen/search/all_a.js</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.2/Doxygen/search/all_b.html</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.2/Doxygen/search/all_b.js</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.2/Doxygen/search/all_c.html</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.2/Doxygen/search/all_c.js</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.2/Doxygen/search/all_d.html</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.2/Doxygen/search/all_d.js</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.2/Doxygen/search/all_e.html</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.2/Doxygen/search/all_e.js</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.2/Doxygen/search/all_f.html</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.2/Doxygen/search/all_f.js</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.2/Doxygen/search/classes_0.html</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.2/Doxygen/search/classes_0.js</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.2/Doxygen/search/classes_1.html</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.2/Doxygen/search/classes_1.js</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.2/Doxygen/search/classes_2.html</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.2/Doxygen/search/classes_2.js</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.2/Doxygen/search/classes_3.html</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.2/Doxygen/search/classes_3.js</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.2/Doxygen/search/classes_4.html</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.2/Doxygen/search/classes_4.js</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.2/Doxygen/search/classes_5.html</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.2/Doxygen/search/classes_5.js</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.2/Doxygen/search/classes_6.html</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.2/Doxygen/search/classes_6.js</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.2/Doxygen/search/classes_7.html</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.2/Doxygen/search/classes_7.js</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.2/Doxygen/search/classes_8.html</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.2/Doxygen/search/classes_8.js</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.2/Doxygen/search/classes_9.html</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.2/Doxygen/search/classes_9.js</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.2/Doxygen/search/classes_a.html</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.2/Doxygen/search/classes_a.js</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.2/Doxygen/search/close.png</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.2/Doxygen/search/functions_0.html</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.2/Doxygen/search/functions_0.js</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.2/Doxygen/search/functions_1.html</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.2/Doxygen/search/functions_1.js</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.2/Doxygen/search/functions_2.html</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.2/Doxygen/search/functions_2.js</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.2/Doxygen/search/functions_3.html</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.2/Doxygen/search/functions_3.js</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.2/Doxygen/search/functions_4.html</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.2/Doxygen/search/functions_4.js</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.2/Doxygen/search/functions_5.html</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.2/Doxygen/search/functions_5.js</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.2/Doxygen/search/functions_6.html</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.2/Doxygen/search/functions_6.js</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.2/Doxygen/search/functions_7.html</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.2/Doxygen/search/functions_7.js</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.2/Doxygen/search/functions_8.html</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.2/Doxygen/search/functions_8.js</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.2/Doxygen/search/functions_9.html</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.2/Doxygen/search/functions_9.js</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.2/Doxygen/search/functions_a.html</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.2/Doxygen/search/functions_a.js</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.2/Doxygen/search/functions_b.html</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.2/Doxygen/search/functions_b.js</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.2/Doxygen/search/functions_c.html</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.2/Doxygen/search/functions_c.js</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.2/Doxygen/search/functions_d.html</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.2/Doxygen/search/functions_d.js</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.2/Doxygen/search/mag_sel.png</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.2/Doxygen/search/nomatches.html</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.2/Doxygen/search/search.css</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.2/Doxygen/search/search.js</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.2/Doxygen/search/search_l.png</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.2/Doxygen/search/search_m.png</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.2/Doxygen/search/search_r.png</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.2/Doxygen/sync_off.png</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.2/Doxygen/sync_on.png</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.2/Doxygen/tab_a.png</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.2/Doxygen/tab_b.png</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.2/Doxygen/tab_h.png</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.2/Doxygen/tab_s.png</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.2/Doxygen/tabs.css</path>
+            <path action="A" kind="dir">/aomclau2/Assignment1.2/GUI Test Plan</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.2/GUI Test Plan/bishopCapture.png</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.2/GUI Test Plan/bishopMove.png</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.2/GUI Test Plan/initialBoard.png</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.2/GUI Test Plan/instructions.txt</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.2/GUI Test Plan/knightMove.png</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.2/GUI Test Plan/moveKing.png</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.2/GUI Test Plan/moveRook.png</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.2/GUI Test Plan/pawn2FirstMove.png</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.2/GUI Test Plan/pawnFirstMove.png</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.2/GUI Test Plan/queenCapture.png</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.2/GUI Test Plan/queenMove.png</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.2/improvements.txt</path>
+            <path action="A" kind="dir">/aomclau2/Assignment1.2/src</path>
+            <path kind="dir" action="A">/aomclau2/Assignment1.2/src/Exceptions</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.2/src/Exceptions/InvalidMovementException.java</path>
+            <path kind="dir" action="A">/aomclau2/Assignment1.2/src/GUI</path>
+            <path kind="dir" action="A">/aomclau2/Assignment1.2/src/GUI/Assets</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.2/src/GUI/Assets/blackBishop.png</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.2/src/GUI/Assets/blackKing.png</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.2/src/GUI/Assets/blackKnight.png</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.2/src/GUI/Assets/blackPawn.png</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.2/src/GUI/Assets/blackQueen.png</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.2/src/GUI/Assets/blackRook.png</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.2/src/GUI/Assets/whiteBishop.png</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.2/src/GUI/Assets/whiteKing.png</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.2/src/GUI/Assets/whiteKnight.png</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.2/src/GUI/Assets/whitePawn.png</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.2/src/GUI/Assets/whiteQueen.png</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.2/src/GUI/Assets/whiteRook.png</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.2/src/GUI/Chess.java</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.2/src/GUI/ChessBoardGUI.java</path>
+            <path kind="dir" action="A">/aomclau2/Assignment1.2/src/Game</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.2/src/Game/Board.java</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.2/src/Game/Color.java</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.2/src/Game/Game.java</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.2/src/Game/Location.java</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.2/src/Game/Player.java</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.2/src/Game/Type.java</path>
+            <path action="A" kind="dir">/aomclau2/Assignment1.2/src/Pieces</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.2/src/Pieces/Bishop.java</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.2/src/Pieces/King.java</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.2/src/Pieces/Knight.java</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.2/src/Pieces/Pawn.java</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.2/src/Pieces/Piece.java</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.2/src/Pieces/Princess.java</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.2/src/Pieces/Queen.java</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.2/src/Pieces/Rook.java</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.2/src/Pieces/Zergling.java</path>
+            <path action="A" kind="dir">/aomclau2/Assignment1.2/src/Tests</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.2/src/Tests/BishopTests.java</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.2/src/Tests/BoardTests.java</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.2/src/Tests/CheckmateTests.java</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.2/src/Tests/KingTests.java</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.2/src/Tests/KnightTests.java</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.2/src/Tests/PawnTests.java</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.2/src/Tests/QueenTests.java</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.2/src/Tests/RookTests.java</path>
+        </paths>
+        <msg>none</msg>
+    </logentry>
+    <logentry revision="5183">
+        <author>aomclau2</author>
+        <date>2014-09-26T08:16:01.973977Z</date>
+        <paths>
+            <path kind="file" action="M">/aomclau2/Assignment1.1/Doxygen/annotated.html</path>
+            <path kind="file" action="M">/aomclau2/Assignment1.1/Doxygen/class_game_1_1_piece_types.html</path>
+            <path action="M" kind="file">/aomclau2/Assignment1.1/Doxygen/class_game_1_1_player-members.html</path>
+            <path action="M" kind="file">/aomclau2/Assignment1.1/Doxygen/class_game_1_1_player.html</path>
+            <path action="M" kind="file">/aomclau2/Assignment1.1/Doxygen/class_pieces_1_1_bishop.html</path>
+            <path action="M" kind="file">/aomclau2/Assignment1.1/Doxygen/class_pieces_1_1_king.html</path>
+            <path action="M" kind="file">/aomclau2/Assignment1.1/Doxygen/class_pieces_1_1_knight.html</path>
+            <path kind="file" action="M">/aomclau2/Assignment1.1/Doxygen/class_pieces_1_1_pawn.html</path>
+            <path kind="file" action="M">/aomclau2/Assignment1.1/Doxygen/class_pieces_1_1_piece.html</path>
+            <path kind="file" action="M">/aomclau2/Assignment1.1/Doxygen/class_pieces_1_1_princess.html</path>
+            <path kind="file" action="M">/aomclau2/Assignment1.1/Doxygen/class_pieces_1_1_queen.html</path>
+            <path action="M" kind="file">/aomclau2/Assignment1.1/Doxygen/class_pieces_1_1_rook.html</path>
+            <path action="M" kind="file">/aomclau2/Assignment1.1/Doxygen/class_pieces_1_1_zergling.html</path>
+            <path action="M" kind="file">/aomclau2/Assignment1.1/Doxygen/class_tests_1_1_board_tests-members.html</path>
+            <path action="M" kind="file">/aomclau2/Assignment1.1/Doxygen/class_tests_1_1_board_tests.html</path>
+            <path action="M" kind="file">/aomclau2/Assignment1.1/Doxygen/classes.html</path>
+            <path action="M" kind="file">/aomclau2/Assignment1.1/Doxygen/dir_b43036362fece0f978c3c8156df55d19.html</path>
+            <path kind="file" action="M">/aomclau2/Assignment1.1/Doxygen/enum_game_1_1_piece_types_1_1_type-members.html</path>
+            <path kind="file" action="M">/aomclau2/Assignment1.1/Doxygen/enum_game_1_1_piece_types_1_1_type.html</path>
+            <path kind="file" action="M">/aomclau2/Assignment1.1/Doxygen/hierarchy.html</path>
+            <path kind="file" action="M">/aomclau2/Assignment1.1/Doxygen/search/all_9.js</path>
+            <path action="M" kind="file">/aomclau2/Assignment1.1/Doxygen/search/all_d.js</path>
+            <path action="M" kind="file">/aomclau2/Assignment1.1/Doxygen/search/classes_6.js</path>
+            <path action="M" kind="file">/aomclau2/Assignment1.1/Doxygen/search/classes_9.js</path>
+            <path action="A" kind="dir" copyfrom-path="/aomclau2/Assignment1.1/Part 5 GUI Test Plan" copyfrom-rev="4391">/aomclau2/Assignment1.1/GUI Test Plan</path>
+            <path kind="dir" action="D">/aomclau2/Assignment1.1/Part 5 GUI Test Plan</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.1/src/GUI/Chess.java</path>
+            <path kind="file" action="M">/aomclau2/Assignment1.1/src/GUI/ChessBoardGUI.java</path>
+            <path kind="file" action="M">/aomclau2/Assignment1.1/src/Game/Board.java</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.1/src/Game/Color.java</path>
+            <path action="M" kind="file">/aomclau2/Assignment1.1/src/Game/Game.java</path>
+            <path action="D" kind="file">/aomclau2/Assignment1.1/src/Game/PieceTypes.java</path>
+            <path action="M" kind="file">/aomclau2/Assignment1.1/src/Game/Player.java</path>
+            <path action="A" kind="file" copyfrom-path="/aomclau2/Assignment1.1/src/Game/PieceTypes.java" copyfrom-rev="4301">/aomclau2/Assignment1.1/src/Game/Type.java</path>
+            <path kind="file" action="M">/aomclau2/Assignment1.1/src/Pieces/Bishop.java</path>
+            <path kind="file" action="M">/aomclau2/Assignment1.1/src/Pieces/King.java</path>
+            <path kind="file" action="M">/aomclau2/Assignment1.1/src/Pieces/Knight.java</path>
+            <path kind="file" action="M">/aomclau2/Assignment1.1/src/Pieces/Pawn.java</path>
+            <path kind="file" action="M">/aomclau2/Assignment1.1/src/Pieces/Piece.java</path>
+            <path kind="file" action="M">/aomclau2/Assignment1.1/src/Pieces/Princess.java</path>
+            <path action="M" kind="file">/aomclau2/Assignment1.1/src/Pieces/Queen.java</path>
+            <path action="M" kind="file">/aomclau2/Assignment1.1/src/Pieces/Rook.java</path>
+            <path action="M" kind="file">/aomclau2/Assignment1.1/src/Pieces/Zergling.java</path>
+            <path action="M" kind="file">/aomclau2/Assignment1.1/src/Tests/BishopTests.java</path>
+            <path kind="file" action="M">/aomclau2/Assignment1.1/src/Tests/BoardTests.java</path>
+            <path kind="file" action="M">/aomclau2/Assignment1.1/src/Tests/CheckmateTests.java</path>
+            <path kind="file" action="M">/aomclau2/Assignment1.1/src/Tests/KingTests.java</path>
+            <path kind="file" action="M">/aomclau2/Assignment1.1/src/Tests/KnightTests.java</path>
+            <path kind="file" action="M">/aomclau2/Assignment1.1/src/Tests/PawnTests.java</path>
+            <path kind="file" action="M">/aomclau2/Assignment1.1/src/Tests/QueenTests.java</path>
+            <path action="M" kind="file">/aomclau2/Assignment1.1/src/Tests/RookTests.java</path>
+        </paths>
+        <msg>none</msg>
+    </logentry>
+    <logentry revision="5175">
+        <author>aomclau2</author>
+        <date>2014-09-26T08:12:52.942490Z</date>
+        <paths>
+            <path action="A" kind="dir">/aomclau2/.idea</path>
+            <path kind="file" action="A">/aomclau2/.idea/.name</path>
+            <path kind="file" action="A">/aomclau2/.idea/compiler.xml</path>
+            <path action="A" kind="dir">/aomclau2/.idea/copyright</path>
+            <path action="A" kind="file">/aomclau2/.idea/copyright/profiles_settings.xml</path>
+            <path action="A" kind="dir">/aomclau2/.idea/dictionaries</path>
+            <path action="A" kind="file">/aomclau2/.idea/dictionaries/Anne.xml</path>
+            <path action="A" kind="file">/aomclau2/.idea/encodings.xml</path>
+            <path kind="file" action="A">/aomclau2/.idea/misc.xml</path>
+            <path kind="file" action="A">/aomclau2/.idea/modules.xml</path>
+            <path kind="dir" action="A">/aomclau2/.idea/scopes</path>
+            <path kind="file" action="A">/aomclau2/.idea/scopes/scope_settings.xml</path>
+            <path action="A" kind="file">/aomclau2/.idea/uiDesigner.xml</path>
+            <path action="A" kind="file">/aomclau2/.idea/vcs.xml</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.0.iml</path>
+            <path kind="file" action="A">/aomclau2/Doxyfile</path>
+            <path kind="dir" action="A">/aomclau2/Doxygen</path>
+            <path kind="file" action="A">/aomclau2/Doxygen/annotated.html</path>
+            <path kind="file" action="A">/aomclau2/Doxygen/bc_s.png</path>
+            <path kind="file" action="A">/aomclau2/Doxygen/bdwn.png</path>
+            <path action="A" kind="file">/aomclau2/Doxygen/class_exceptions_1_1_invalid_movement_exception-members.html</path>
+            <path action="A" kind="file">/aomclau2/Doxygen/class_exceptions_1_1_invalid_movement_exception.html</path>
+            <path action="A" kind="file">/aomclau2/Doxygen/class_exceptions_1_1_invalid_movement_exception.png</path>
+            <path action="A" kind="file">/aomclau2/Doxygen/class_g_u_i_1_1_chess_board_g_u_i-members.html</path>
+            <path kind="file" action="A">/aomclau2/Doxygen/class_g_u_i_1_1_chess_board_g_u_i.html</path>
+            <path kind="file" action="A">/aomclau2/Doxygen/class_g_u_i_1_1_chess_board_g_u_i_1_1_cell_pane-members.html</path>
+            <path kind="file" action="A">/aomclau2/Doxygen/class_g_u_i_1_1_chess_board_g_u_i_1_1_cell_pane.html</path>
+            <path kind="file" action="A">/aomclau2/Doxygen/class_g_u_i_1_1_chess_board_g_u_i_1_1_cell_pane.png</path>
+            <path kind="file" action="A">/aomclau2/Doxygen/class_g_u_i_1_1_chess_board_g_u_i_1_1_chess_window-members.html</path>
+            <path action="A" kind="file">/aomclau2/Doxygen/class_g_u_i_1_1_chess_board_g_u_i_1_1_chess_window.html</path>
+            <path action="A" kind="file">/aomclau2/Doxygen/class_g_u_i_1_1_chess_board_g_u_i_1_1_chess_window.png</path>
+            <path action="A" kind="file">/aomclau2/Doxygen/class_game_1_1_board-members.html</path>
+            <path action="A" kind="file">/aomclau2/Doxygen/class_game_1_1_board.html</path>
+            <path action="A" kind="file">/aomclau2/Doxygen/class_game_1_1_game-members.html</path>
+            <path kind="file" action="A">/aomclau2/Doxygen/class_game_1_1_game.html</path>
+            <path kind="file" action="A">/aomclau2/Doxygen/class_game_1_1_location-members.html</path>
+            <path kind="file" action="A">/aomclau2/Doxygen/class_game_1_1_location.html</path>
+            <path kind="file" action="A">/aomclau2/Doxygen/class_game_1_1_piece_types.html</path>
+            <path kind="file" action="A">/aomclau2/Doxygen/class_game_1_1_player-members.html</path>
+            <path action="A" kind="file">/aomclau2/Doxygen/class_game_1_1_player.html</path>
+            <path action="A" kind="file">/aomclau2/Doxygen/class_pieces_1_1_bishop-members.html</path>
+            <path action="A" kind="file">/aomclau2/Doxygen/class_pieces_1_1_bishop.html</path>
+            <path action="A" kind="file">/aomclau2/Doxygen/class_pieces_1_1_bishop.png</path>
+            <path action="A" kind="file">/aomclau2/Doxygen/class_pieces_1_1_king-members.html</path>
+            <path kind="file" action="A">/aomclau2/Doxygen/class_pieces_1_1_king.html</path>
+            <path kind="file" action="A">/aomclau2/Doxygen/class_pieces_1_1_king.png</path>
+            <path kind="file" action="A">/aomclau2/Doxygen/class_pieces_1_1_knight-members.html</path>
+            <path kind="file" action="A">/aomclau2/Doxygen/class_pieces_1_1_knight.html</path>
+            <path action="A" kind="file">/aomclau2/Doxygen/class_pieces_1_1_knight.png</path>
+            <path action="A" kind="file">/aomclau2/Doxygen/class_pieces_1_1_pawn-members.html</path>
+            <path action="A" kind="file">/aomclau2/Doxygen/class_pieces_1_1_pawn.html</path>
+            <path action="A" kind="file">/aomclau2/Doxygen/class_pieces_1_1_pawn.png</path>
+            <path action="A" kind="file">/aomclau2/Doxygen/class_pieces_1_1_piece-members.html</path>
+            <path kind="file" action="A">/aomclau2/Doxygen/class_pieces_1_1_piece.html</path>
+            <path kind="file" action="A">/aomclau2/Doxygen/class_pieces_1_1_piece.png</path>
+            <path kind="file" action="A">/aomclau2/Doxygen/class_pieces_1_1_princess-members.html</path>
+            <path kind="file" action="A">/aomclau2/Doxygen/class_pieces_1_1_princess.html</path>
+            <path kind="file" action="A">/aomclau2/Doxygen/class_pieces_1_1_princess.png</path>
+            <path kind="file" action="A">/aomclau2/Doxygen/class_pieces_1_1_queen-members.html</path>
+            <path action="A" kind="file">/aomclau2/Doxygen/class_pieces_1_1_queen.html</path>
+            <path action="A" kind="file">/aomclau2/Doxygen/class_pieces_1_1_queen.png</path>
+            <path action="A" kind="file">/aomclau2/Doxygen/class_pieces_1_1_rook-members.html</path>
+            <path action="A" kind="file">/aomclau2/Doxygen/class_pieces_1_1_rook.html</path>
+            <path action="A" kind="file">/aomclau2/Doxygen/class_pieces_1_1_rook.png</path>
+            <path kind="file" action="A">/aomclau2/Doxygen/class_pieces_1_1_zergling-members.html</path>
+            <path kind="file" action="A">/aomclau2/Doxygen/class_pieces_1_1_zergling.html</path>
+            <path kind="file" action="A">/aomclau2/Doxygen/class_pieces_1_1_zergling.png</path>
+            <path kind="file" action="A">/aomclau2/Doxygen/class_tests_1_1_bishop_tests-members.html</path>
+            <path kind="file" action="A">/aomclau2/Doxygen/class_tests_1_1_bishop_tests.html</path>
+            <path action="A" kind="file">/aomclau2/Doxygen/class_tests_1_1_board_tests-members.html</path>
+            <path action="A" kind="file">/aomclau2/Doxygen/class_tests_1_1_board_tests.html</path>
+            <path action="A" kind="file">/aomclau2/Doxygen/class_tests_1_1_checkmate_tests-members.html</path>
+            <path action="A" kind="file">/aomclau2/Doxygen/class_tests_1_1_checkmate_tests.html</path>
+            <path action="A" kind="file">/aomclau2/Doxygen/class_tests_1_1_king_tests-members.html</path>
+            <path kind="file" action="A">/aomclau2/Doxygen/class_tests_1_1_king_tests.html</path>
+            <path kind="file" action="A">/aomclau2/Doxygen/class_tests_1_1_knight_tests-members.html</path>
+            <path kind="file" action="A">/aomclau2/Doxygen/class_tests_1_1_knight_tests.html</path>
+            <path kind="file" action="A">/aomclau2/Doxygen/class_tests_1_1_pawn_tests-members.html</path>
+            <path kind="file" action="A">/aomclau2/Doxygen/class_tests_1_1_pawn_tests.html</path>
+            <path action="A" kind="file">/aomclau2/Doxygen/class_tests_1_1_queen_tests-members.html</path>
+            <path action="A" kind="file">/aomclau2/Doxygen/class_tests_1_1_queen_tests.html</path>
+            <path action="A" kind="file">/aomclau2/Doxygen/class_tests_1_1_rook_tests-members.html</path>
+            <path action="A" kind="file">/aomclau2/Doxygen/class_tests_1_1_rook_tests.html</path>
+            <path action="A" kind="file">/aomclau2/Doxygen/classes.html</path>
+            <path kind="file" action="A">/aomclau2/Doxygen/closed.png</path>
+            <path kind="file" action="A">/aomclau2/Doxygen/dir_4e4e2e75df7fa6971448b424c011c8b5.html</path>
+            <path kind="file" action="A">/aomclau2/Doxygen/dir_68267d1309a1af8e8297ef4c3efbcdba.html</path>
+            <path kind="file" action="A">/aomclau2/Doxygen/dir_6bd92bd93c0d5d9980919215b46f20a3.html</path>
+            <path kind="file" action="A">/aomclau2/Doxygen/dir_839463272e7a6c2bc3177e29931a8d81.html</path>
+            <path action="A" kind="file">/aomclau2/Doxygen/dir_a0d713cea12394a4c028036c439896df.html</path>
+            <path action="A" kind="file">/aomclau2/Doxygen/dir_b43036362fece0f978c3c8156df55d19.html</path>
+            <path action="A" kind="file">/aomclau2/Doxygen/doxygen.css</path>
+            <path action="A" kind="file">/aomclau2/Doxygen/doxygen.png</path>
+            <path kind="file" action="A">/aomclau2/Doxygen/dynsections.js</path>
+            <path kind="file" action="A">/aomclau2/Doxygen/enum_game_1_1_board_1_1_board_type-members.html</path>
+            <path kind="file" action="A">/aomclau2/Doxygen/enum_game_1_1_board_1_1_board_type.html</path>
+            <path kind="file" action="A">/aomclau2/Doxygen/enum_game_1_1_piece_types_1_1_type-members.html</path>
+            <path kind="file" action="A">/aomclau2/Doxygen/enum_game_1_1_piece_types_1_1_type.html</path>
+            <path action="A" kind="file">/aomclau2/Doxygen/ftv2blank.png</path>
+            <path action="A" kind="file">/aomclau2/Doxygen/ftv2doc.png</path>
+            <path action="A" kind="file">/aomclau2/Doxygen/ftv2folderclosed.png</path>
+            <path action="A" kind="file">/aomclau2/Doxygen/ftv2folderopen.png</path>
+            <path action="A" kind="file">/aomclau2/Doxygen/ftv2lastnode.png</path>
+            <path action="A" kind="file">/aomclau2/Doxygen/ftv2link.png</path>
+            <path kind="file" action="A">/aomclau2/Doxygen/ftv2mlastnode.png</path>
+            <path kind="file" action="A">/aomclau2/Doxygen/ftv2mnode.png</path>
+            <path kind="file" action="A">/aomclau2/Doxygen/ftv2node.png</path>
+            <path kind="file" action="A">/aomclau2/Doxygen/ftv2plastnode.png</path>
+            <path kind="file" action="A">/aomclau2/Doxygen/ftv2pnode.png</path>
+            <path action="A" kind="file">/aomclau2/Doxygen/ftv2splitbar.png</path>
+            <path action="A" kind="file">/aomclau2/Doxygen/ftv2vertline.png</path>
+            <path action="A" kind="file">/aomclau2/Doxygen/functions.html</path>
+            <path action="A" kind="file">/aomclau2/Doxygen/functions_func.html</path>
+            <path action="A" kind="file">/aomclau2/Doxygen/hierarchy.html</path>
+            <path kind="file" action="A">/aomclau2/Doxygen/index.html</path>
+            <path kind="file" action="A">/aomclau2/Doxygen/jquery.js</path>
+            <path kind="file" action="A">/aomclau2/Doxygen/nav_f.png</path>
+            <path kind="file" action="A">/aomclau2/Doxygen/nav_g.png</path>
+            <path kind="file" action="A">/aomclau2/Doxygen/nav_h.png</path>
+            <path action="A" kind="file">/aomclau2/Doxygen/open.png</path>
+            <path action="A" kind="dir">/aomclau2/Doxygen/search</path>
+            <path action="A" kind="file">/aomclau2/Doxygen/search/all_0.html</path>
+            <path action="A" kind="file">/aomclau2/Doxygen/search/all_0.js</path>
+            <path action="A" kind="file">/aomclau2/Doxygen/search/all_1.html</path>
+            <path action="A" kind="file">/aomclau2/Doxygen/search/all_1.js</path>
+            <path kind="file" action="A">/aomclau2/Doxygen/search/all_2.html</path>
+            <path kind="file" action="A">/aomclau2/Doxygen/search/all_2.js</path>
+            <path kind="file" action="A">/aomclau2/Doxygen/search/all_3.html</path>
+            <path kind="file" action="A">/aomclau2/Doxygen/search/all_3.js</path>
+            <path kind="file" action="A">/aomclau2/Doxygen/search/all_4.html</path>
+            <path action="A" kind="file">/aomclau2/Doxygen/search/all_4.js</path>
+            <path action="A" kind="file">/aomclau2/Doxygen/search/all_5.html</path>
+            <path action="A" kind="file">/aomclau2/Doxygen/search/all_5.js</path>
+            <path action="A" kind="file">/aomclau2/Doxygen/search/all_6.html</path>
+            <path action="A" kind="file">/aomclau2/Doxygen/search/all_6.js</path>
+            <path kind="file" action="A">/aomclau2/Doxygen/search/all_7.html</path>
+            <path kind="file" action="A">/aomclau2/Doxygen/search/all_7.js</path>
+            <path kind="file" action="A">/aomclau2/Doxygen/search/all_8.html</path>
+            <path kind="file" action="A">/aomclau2/Doxygen/search/all_8.js</path>
+            <path kind="file" action="A">/aomclau2/Doxygen/search/all_9.html</path>
+            <path kind="file" action="A">/aomclau2/Doxygen/search/all_9.js</path>
+            <path action="A" kind="file">/aomclau2/Doxygen/search/all_a.html</path>
+            <path action="A" kind="file">/aomclau2/Doxygen/search/all_a.js</path>
+            <path action="A" kind="file">/aomclau2/Doxygen/search/all_b.html</path>
+            <path action="A" kind="file">/aomclau2/Doxygen/search/all_b.js</path>
+            <path action="A" kind="file">/aomclau2/Doxygen/search/all_c.html</path>
+            <path kind="file" action="A">/aomclau2/Doxygen/search/all_c.js</path>
+            <path kind="file" action="A">/aomclau2/Doxygen/search/all_d.html</path>
+            <path kind="file" action="A">/aomclau2/Doxygen/search/all_d.js</path>
+            <path kind="file" action="A">/aomclau2/Doxygen/search/all_e.html</path>
+            <path kind="file" action="A">/aomclau2/Doxygen/search/all_e.js</path>
+            <path action="A" kind="file">/aomclau2/Doxygen/search/all_f.html</path>
+            <path kind="file" action="A">/aomclau2/Doxygen/search/all_f.js</path>
+            <path kind="file" action="A">/aomclau2/Doxygen/search/classes_0.html</path>
+            <path action="A" kind="file">/aomclau2/Doxygen/search/classes_0.js</path>
+            <path action="A" kind="file">/aomclau2/Doxygen/search/classes_1.html</path>
+            <path action="A" kind="file">/aomclau2/Doxygen/search/classes_1.js</path>
+            <path action="A" kind="file">/aomclau2/Doxygen/search/classes_2.html</path>
+            <path action="A" kind="file">/aomclau2/Doxygen/search/classes_2.js</path>
+            <path kind="file" action="A">/aomclau2/Doxygen/search/classes_3.html</path>
+            <path kind="file" action="A">/aomclau2/Doxygen/search/classes_3.js</path>
+            <path kind="file" action="A">/aomclau2/Doxygen/search/classes_4.html</path>
+            <path kind="file" action="A">/aomclau2/Doxygen/search/classes_4.js</path>
+            <path kind="file" action="A">/aomclau2/Doxygen/search/classes_5.html</path>
+            <path action="A" kind="file">/aomclau2/Doxygen/search/classes_5.js</path>
+            <path action="A" kind="file">/aomclau2/Doxygen/search/classes_6.html</path>
+            <path action="A" kind="file">/aomclau2/Doxygen/search/classes_6.js</path>
+            <path action="A" kind="file">/aomclau2/Doxygen/search/classes_7.html</path>
+            <path action="A" kind="file">/aomclau2/Doxygen/search/classes_7.js</path>
+            <path kind="file" action="A">/aomclau2/Doxygen/search/classes_8.html</path>
+            <path kind="file" action="A">/aomclau2/Doxygen/search/classes_8.js</path>
+            <path kind="file" action="A">/aomclau2/Doxygen/search/classes_9.html</path>
+            <path kind="file" action="A">/aomclau2/Doxygen/search/classes_9.js</path>
+            <path kind="file" action="A">/aomclau2/Doxygen/search/classes_a.html</path>
+            <path action="A" kind="file">/aomclau2/Doxygen/search/classes_a.js</path>
+            <path action="A" kind="file">/aomclau2/Doxygen/search/close.png</path>
+            <path action="A" kind="file">/aomclau2/Doxygen/search/functions_0.html</path>
+            <path action="A" kind="file">/aomclau2/Doxygen/search/functions_0.js</path>
+            <path action="A" kind="file">/aomclau2/Doxygen/search/functions_1.html</path>
+            <path kind="file" action="A">/aomclau2/Doxygen/search/functions_1.js</path>
+            <path kind="file" action="A">/aomclau2/Doxygen/search/functions_2.html</path>
+            <path kind="file" action="A">/aomclau2/Doxygen/search/functions_2.js</path>
+            <path kind="file" action="A">/aomclau2/Doxygen/search/functions_3.html</path>
+            <path kind="file" action="A">/aomclau2/Doxygen/search/functions_3.js</path>
+            <path kind="file" action="A">/aomclau2/Doxygen/search/functions_4.html</path>
+            <path action="A" kind="file">/aomclau2/Doxygen/search/functions_4.js</path>
+            <path action="A" kind="file">/aomclau2/Doxygen/search/functions_5.html</path>
+            <path action="A" kind="file">/aomclau2/Doxygen/search/functions_5.js</path>
+            <path action="A" kind="file">/aomclau2/Doxygen/search/functions_6.html</path>
+            <path action="A" kind="file">/aomclau2/Doxygen/search/functions_6.js</path>
+            <path kind="file" action="A">/aomclau2/Doxygen/search/functions_7.html</path>
+            <path kind="file" action="A">/aomclau2/Doxygen/search/functions_7.js</path>
+            <path kind="file" action="A">/aomclau2/Doxygen/search/functions_8.html</path>
+            <path action="A" kind="file">/aomclau2/Doxygen/search/functions_8.js</path>
+            <path action="A" kind="file">/aomclau2/Doxygen/search/functions_9.html</path>
+            <path action="A" kind="file">/aomclau2/Doxygen/search/functions_9.js</path>
+            <path action="A" kind="file">/aomclau2/Doxygen/search/functions_a.html</path>
+            <path action="A" kind="file">/aomclau2/Doxygen/search/functions_a.js</path>
+            <path kind="file" action="A">/aomclau2/Doxygen/search/functions_b.html</path>
+            <path kind="file" action="A">/aomclau2/Doxygen/search/functions_b.js</path>
+            <path kind="file" action="A">/aomclau2/Doxygen/search/functions_c.html</path>
+            <path kind="file" action="A">/aomclau2/Doxygen/search/functions_c.js</path>
+            <path kind="file" action="A">/aomclau2/Doxygen/search/functions_d.html</path>
+            <path action="A" kind="file">/aomclau2/Doxygen/search/functions_d.js</path>
+            <path action="A" kind="file">/aomclau2/Doxygen/search/mag_sel.png</path>
+            <path action="A" kind="file">/aomclau2/Doxygen/search/nomatches.html</path>
+            <path action="A" kind="file">/aomclau2/Doxygen/search/search.css</path>
+            <path action="A" kind="file">/aomclau2/Doxygen/search/search.js</path>
+            <path action="A" kind="file">/aomclau2/Doxygen/search/search_l.png</path>
+            <path kind="file" action="A">/aomclau2/Doxygen/search/search_m.png</path>
+            <path kind="file" action="A">/aomclau2/Doxygen/search/search_r.png</path>
+            <path kind="file" action="A">/aomclau2/Doxygen/sync_off.png</path>
+            <path kind="file" action="A">/aomclau2/Doxygen/sync_on.png</path>
+            <path kind="file" action="A">/aomclau2/Doxygen/tab_a.png</path>
+            <path action="A" kind="file">/aomclau2/Doxygen/tab_b.png</path>
+            <path action="A" kind="file">/aomclau2/Doxygen/tab_h.png</path>
+            <path action="A" kind="file">/aomclau2/Doxygen/tab_s.png</path>
+            <path action="A" kind="file">/aomclau2/Doxygen/tabs.css</path>
+            <path action="A" kind="dir">/aomclau2/Part 5 GUI Test Plan</path>
+            <path kind="file" action="A">/aomclau2/Part 5 GUI Test Plan/bishopCapture.png</path>
+            <path kind="file" action="A">/aomclau2/Part 5 GUI Test Plan/bishopMove.png</path>
+            <path kind="file" action="A">/aomclau2/Part 5 GUI Test Plan/initialBoard.png</path>
+            <path kind="file" action="A">/aomclau2/Part 5 GUI Test Plan/instructions.txt</path>
+            <path kind="file" action="A">/aomclau2/Part 5 GUI Test Plan/knightMove.png</path>
+            <path action="A" kind="file">/aomclau2/Part 5 GUI Test Plan/moveKing.png</path>
+            <path action="A" kind="file">/aomclau2/Part 5 GUI Test Plan/moveRook.png</path>
+            <path action="A" kind="file">/aomclau2/Part 5 GUI Test Plan/pawn2FirstMove.png</path>
+            <path action="A" kind="file">/aomclau2/Part 5 GUI Test Plan/pawnFirstMove.png</path>
+            <path action="A" kind="file">/aomclau2/Part 5 GUI Test Plan/queenCapture.png</path>
+            <path action="A" kind="file">/aomclau2/Part 5 GUI Test Plan/queenMove.png</path>
+            <path kind="file" action="A">/aomclau2/improvements.txt</path>
+            <path kind="dir" action="A">/aomclau2/src</path>
+            <path kind="dir" action="A">/aomclau2/src/Exceptions</path>
+            <path kind="file" action="A">/aomclau2/src/Exceptions/InvalidMovementException.java</path>
+            <path kind="dir" action="A">/aomclau2/src/GUI</path>
+            <path action="A" kind="dir">/aomclau2/src/GUI/Assets</path>
+            <path action="A" kind="file">/aomclau2/src/GUI/Assets/blackBishop.png</path>
+            <path action="A" kind="file">/aomclau2/src/GUI/Assets/blackKing.png</path>
+            <path action="A" kind="file">/aomclau2/src/GUI/Assets/blackKnight.png</path>
+            <path action="A" kind="file">/aomclau2/src/GUI/Assets/blackPawn.png</path>
+            <path kind="file" action="A">/aomclau2/src/GUI/Assets/blackQueen.png</path>
+            <path kind="file" action="A">/aomclau2/src/GUI/Assets/blackRook.png</path>
+            <path kind="file" action="A">/aomclau2/src/GUI/Assets/whiteBishop.png</path>
+            <path kind="file" action="A">/aomclau2/src/GUI/Assets/whiteKing.png</path>
+            <path kind="file" action="A">/aomclau2/src/GUI/Assets/whiteKnight.png</path>
+            <path action="A" kind="file">/aomclau2/src/GUI/Assets/whitePawn.png</path>
+            <path action="A" kind="file">/aomclau2/src/GUI/Assets/whiteQueen.png</path>
+            <path action="A" kind="file">/aomclau2/src/GUI/Assets/whiteRook.png</path>
+            <path action="A" kind="file">/aomclau2/src/GUI/Chess.java</path>
+            <path action="A" kind="file">/aomclau2/src/GUI/ChessBoardGUI.java</path>
+            <path action="A" kind="dir">/aomclau2/src/Game</path>
+            <path kind="file" action="A">/aomclau2/src/Game/Board.java</path>
+            <path kind="file" action="A">/aomclau2/src/Game/Color.java</path>
+            <path kind="file" action="A">/aomclau2/src/Game/Game.java</path>
+            <path kind="file" action="A">/aomclau2/src/Game/Location.java</path>
+            <path kind="file" action="A">/aomclau2/src/Game/Player.java</path>
+            <path action="A" kind="file">/aomclau2/src/Game/Type.java</path>
+            <path action="A" kind="dir">/aomclau2/src/Pieces</path>
+            <path action="A" kind="file">/aomclau2/src/Pieces/Bishop.java</path>
+            <path action="A" kind="file">/aomclau2/src/Pieces/King.java</path>
+            <path action="A" kind="file">/aomclau2/src/Pieces/Knight.java</path>
+            <path action="A" kind="file">/aomclau2/src/Pieces/Pawn.java</path>
+            <path kind="file" action="A">/aomclau2/src/Pieces/Piece.java</path>
+            <path kind="file" action="A">/aomclau2/src/Pieces/Princess.java</path>
+            <path kind="file" action="A">/aomclau2/src/Pieces/Queen.java</path>
+            <path kind="file" action="A">/aomclau2/src/Pieces/Rook.java</path>
+            <path kind="file" action="A">/aomclau2/src/Pieces/Zergling.java</path>
+            <path action="A" kind="dir">/aomclau2/src/Tests</path>
+            <path action="A" kind="file">/aomclau2/src/Tests/BishopTests.java</path>
+            <path action="A" kind="file">/aomclau2/src/Tests/BoardTests.java</path>
+            <path action="A" kind="file">/aomclau2/src/Tests/CheckmateTests.java</path>
+            <path action="A" kind="file">/aomclau2/src/Tests/KingTests.java</path>
+            <path kind="file" action="A">/aomclau2/src/Tests/KnightTests.java</path>
+            <path kind="file" action="A">/aomclau2/src/Tests/PawnTests.java</path>
+            <path kind="file" action="A">/aomclau2/src/Tests/QueenTests.java</path>
+            <path kind="file" action="A">/aomclau2/src/Tests/RookTests.java</path>
+        </paths>
+        <msg>none</msg>
+    </logentry>
+    <logentry revision="5172">
+        <author>aomclau2</author>
+        <date>2014-09-26T08:09:57.868410Z</date>
+        <paths>
+            <path action="A" kind="dir">/aomclau2/Assignment1.2</path>
+        </paths>
+        <msg />
+    </logentry>
+    <logentry revision="4391">
+        <author>aomclau2</author>
+        <date>2014-09-19T16:46:50.295302Z</date>
+        <paths>
+            <path action="A" kind="dir">/aomclau2/Assignment1.1/Part 5 GUI Test Plan</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.1/Part 5 GUI Test Plan/bishopCapture.png</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.1/Part 5 GUI Test Plan/bishopMove.png</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.1/Part 5 GUI Test Plan/initialBoard.png</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.1/Part 5 GUI Test Plan/instructions.txt</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.1/Part 5 GUI Test Plan/knightMove.png</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.1/Part 5 GUI Test Plan/moveKing.png</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.1/Part 5 GUI Test Plan/moveRook.png</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.1/Part 5 GUI Test Plan/pawn2FirstMove.png</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.1/Part 5 GUI Test Plan/pawnFirstMove.png</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.1/Part 5 GUI Test Plan/queenCapture.png</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.1/Part 5 GUI Test Plan/queenMove.png</path>
+        </paths>
+        <msg />
+    </logentry>
+    <logentry revision="4303">
+        <author>aomclau2</author>
+        <date>2014-09-19T10:14:04.238735Z</date>
+        <paths>
+            <path action="A" kind="file">/aomclau2/Assignment1.1/Part 5 GUI Test Plan.zip</path>
+        </paths>
+        <msg />
+    </logentry>
+    <logentry revision="4296">
+        <author>aomclau2</author>
+        <date>2014-09-19T09:50:35.756065Z</date>
+        <paths>
+            <path kind="dir" action="A">/aomclau2/Assignment1.1</path>
+            <path action="A" kind="dir">/aomclau2/Assignment1.1/.idea</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.1/.idea/.name</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.1/.idea/compiler.xml</path>
+            <path kind="dir" action="A">/aomclau2/Assignment1.1/.idea/copyright</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.1/.idea/copyright/profiles_settings.xml</path>
+            <path action="A" kind="dir">/aomclau2/Assignment1.1/.idea/dictionaries</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.1/.idea/dictionaries/Anne.xml</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.1/.idea/encodings.xml</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.1/.idea/misc.xml</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.1/.idea/modules.xml</path>
+            <path kind="dir" action="A">/aomclau2/Assignment1.1/.idea/scopes</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.1/.idea/scopes/scope_settings.xml</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.1/.idea/uiDesigner.xml</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.1/.idea/vcs.xml</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.1/Assignment1.0.iml</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.1/Doxyfile</path>
+            <path action="A" kind="dir">/aomclau2/Assignment1.1/Doxygen</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.1/Doxygen/annotated.html</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.1/Doxygen/bc_s.png</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.1/Doxygen/bdwn.png</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.1/Doxygen/class_exceptions_1_1_invalid_movement_exception-members.html</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.1/Doxygen/class_exceptions_1_1_invalid_movement_exception.html</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.1/Doxygen/class_exceptions_1_1_invalid_movement_exception.png</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.1/Doxygen/class_g_u_i_1_1_chess_board_g_u_i-members.html</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.1/Doxygen/class_g_u_i_1_1_chess_board_g_u_i.html</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.1/Doxygen/class_g_u_i_1_1_chess_board_g_u_i_1_1_cell_pane-members.html</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.1/Doxygen/class_g_u_i_1_1_chess_board_g_u_i_1_1_cell_pane.html</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.1/Doxygen/class_g_u_i_1_1_chess_board_g_u_i_1_1_cell_pane.png</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.1/Doxygen/class_g_u_i_1_1_chess_board_g_u_i_1_1_chess_window-members.html</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.1/Doxygen/class_g_u_i_1_1_chess_board_g_u_i_1_1_chess_window.html</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.1/Doxygen/class_g_u_i_1_1_chess_board_g_u_i_1_1_chess_window.png</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.1/Doxygen/class_game_1_1_board-members.html</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.1/Doxygen/class_game_1_1_board.html</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.1/Doxygen/class_game_1_1_game-members.html</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.1/Doxygen/class_game_1_1_game.html</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.1/Doxygen/class_game_1_1_location-members.html</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.1/Doxygen/class_game_1_1_location.html</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.1/Doxygen/class_game_1_1_piece_types.html</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.1/Doxygen/class_game_1_1_player-members.html</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.1/Doxygen/class_game_1_1_player.html</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.1/Doxygen/class_pieces_1_1_bishop-members.html</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.1/Doxygen/class_pieces_1_1_bishop.html</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.1/Doxygen/class_pieces_1_1_bishop.png</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.1/Doxygen/class_pieces_1_1_king-members.html</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.1/Doxygen/class_pieces_1_1_king.html</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.1/Doxygen/class_pieces_1_1_king.png</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.1/Doxygen/class_pieces_1_1_knight-members.html</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.1/Doxygen/class_pieces_1_1_knight.html</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.1/Doxygen/class_pieces_1_1_knight.png</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.1/Doxygen/class_pieces_1_1_pawn-members.html</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.1/Doxygen/class_pieces_1_1_pawn.html</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.1/Doxygen/class_pieces_1_1_pawn.png</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.1/Doxygen/class_pieces_1_1_piece-members.html</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.1/Doxygen/class_pieces_1_1_piece.html</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.1/Doxygen/class_pieces_1_1_piece.png</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.1/Doxygen/class_pieces_1_1_princess-members.html</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.1/Doxygen/class_pieces_1_1_princess.html</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.1/Doxygen/class_pieces_1_1_princess.png</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.1/Doxygen/class_pieces_1_1_queen-members.html</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.1/Doxygen/class_pieces_1_1_queen.html</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.1/Doxygen/class_pieces_1_1_queen.png</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.1/Doxygen/class_pieces_1_1_rook-members.html</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.1/Doxygen/class_pieces_1_1_rook.html</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.1/Doxygen/class_pieces_1_1_rook.png</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.1/Doxygen/class_pieces_1_1_zergling-members.html</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.1/Doxygen/class_pieces_1_1_zergling.html</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.1/Doxygen/class_pieces_1_1_zergling.png</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.1/Doxygen/class_tests_1_1_bishop_tests-members.html</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.1/Doxygen/class_tests_1_1_bishop_tests.html</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.1/Doxygen/class_tests_1_1_board_tests-members.html</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.1/Doxygen/class_tests_1_1_board_tests.html</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.1/Doxygen/class_tests_1_1_checkmate_tests-members.html</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.1/Doxygen/class_tests_1_1_checkmate_tests.html</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.1/Doxygen/class_tests_1_1_king_tests-members.html</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.1/Doxygen/class_tests_1_1_king_tests.html</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.1/Doxygen/class_tests_1_1_knight_tests-members.html</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.1/Doxygen/class_tests_1_1_knight_tests.html</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.1/Doxygen/class_tests_1_1_pawn_tests-members.html</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.1/Doxygen/class_tests_1_1_pawn_tests.html</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.1/Doxygen/class_tests_1_1_queen_tests-members.html</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.1/Doxygen/class_tests_1_1_queen_tests.html</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.1/Doxygen/class_tests_1_1_rook_tests-members.html</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.1/Doxygen/class_tests_1_1_rook_tests.html</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.1/Doxygen/classes.html</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.1/Doxygen/closed.png</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.1/Doxygen/dir_4e4e2e75df7fa6971448b424c011c8b5.html</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.1/Doxygen/dir_68267d1309a1af8e8297ef4c3efbcdba.html</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.1/Doxygen/dir_6bd92bd93c0d5d9980919215b46f20a3.html</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.1/Doxygen/dir_839463272e7a6c2bc3177e29931a8d81.html</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.1/Doxygen/dir_a0d713cea12394a4c028036c439896df.html</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.1/Doxygen/dir_b43036362fece0f978c3c8156df55d19.html</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.1/Doxygen/doxygen.css</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.1/Doxygen/doxygen.png</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.1/Doxygen/dynsections.js</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.1/Doxygen/enum_game_1_1_board_1_1_board_type-members.html</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.1/Doxygen/enum_game_1_1_board_1_1_board_type.html</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.1/Doxygen/enum_game_1_1_piece_types_1_1_type-members.html</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.1/Doxygen/enum_game_1_1_piece_types_1_1_type.html</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.1/Doxygen/ftv2blank.png</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.1/Doxygen/ftv2doc.png</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.1/Doxygen/ftv2folderclosed.png</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.1/Doxygen/ftv2folderopen.png</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.1/Doxygen/ftv2lastnode.png</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.1/Doxygen/ftv2link.png</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.1/Doxygen/ftv2mlastnode.png</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.1/Doxygen/ftv2mnode.png</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.1/Doxygen/ftv2node.png</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.1/Doxygen/ftv2plastnode.png</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.1/Doxygen/ftv2pnode.png</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.1/Doxygen/ftv2splitbar.png</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.1/Doxygen/ftv2vertline.png</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.1/Doxygen/functions.html</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.1/Doxygen/functions_func.html</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.1/Doxygen/hierarchy.html</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.1/Doxygen/index.html</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.1/Doxygen/jquery.js</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.1/Doxygen/nav_f.png</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.1/Doxygen/nav_g.png</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.1/Doxygen/nav_h.png</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.1/Doxygen/open.png</path>
+            <path kind="dir" action="A">/aomclau2/Assignment1.1/Doxygen/search</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.1/Doxygen/search/all_0.html</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.1/Doxygen/search/all_0.js</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.1/Doxygen/search/all_1.html</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.1/Doxygen/search/all_1.js</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.1/Doxygen/search/all_2.html</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.1/Doxygen/search/all_2.js</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.1/Doxygen/search/all_3.html</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.1/Doxygen/search/all_3.js</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.1/Doxygen/search/all_4.html</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.1/Doxygen/search/all_4.js</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.1/Doxygen/search/all_5.html</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.1/Doxygen/search/all_5.js</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.1/Doxygen/search/all_6.html</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.1/Doxygen/search/all_6.js</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.1/Doxygen/search/all_7.html</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.1/Doxygen/search/all_7.js</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.1/Doxygen/search/all_8.html</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.1/Doxygen/search/all_8.js</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.1/Doxygen/search/all_9.html</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.1/Doxygen/search/all_9.js</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.1/Doxygen/search/all_a.html</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.1/Doxygen/search/all_a.js</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.1/Doxygen/search/all_b.html</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.1/Doxygen/search/all_b.js</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.1/Doxygen/search/all_c.html</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.1/Doxygen/search/all_c.js</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.1/Doxygen/search/all_d.html</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.1/Doxygen/search/all_d.js</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.1/Doxygen/search/all_e.html</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.1/Doxygen/search/all_e.js</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.1/Doxygen/search/all_f.html</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.1/Doxygen/search/all_f.js</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.1/Doxygen/search/classes_0.html</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.1/Doxygen/search/classes_0.js</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.1/Doxygen/search/classes_1.html</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.1/Doxygen/search/classes_1.js</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.1/Doxygen/search/classes_2.html</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.1/Doxygen/search/classes_2.js</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.1/Doxygen/search/classes_3.html</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.1/Doxygen/search/classes_3.js</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.1/Doxygen/search/classes_4.html</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.1/Doxygen/search/classes_4.js</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.1/Doxygen/search/classes_5.html</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.1/Doxygen/search/classes_5.js</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.1/Doxygen/search/classes_6.html</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.1/Doxygen/search/classes_6.js</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.1/Doxygen/search/classes_7.html</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.1/Doxygen/search/classes_7.js</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.1/Doxygen/search/classes_8.html</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.1/Doxygen/search/classes_8.js</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.1/Doxygen/search/classes_9.html</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.1/Doxygen/search/classes_9.js</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.1/Doxygen/search/classes_a.html</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.1/Doxygen/search/classes_a.js</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.1/Doxygen/search/close.png</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.1/Doxygen/search/functions_0.html</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.1/Doxygen/search/functions_0.js</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.1/Doxygen/search/functions_1.html</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.1/Doxygen/search/functions_1.js</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.1/Doxygen/search/functions_2.html</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.1/Doxygen/search/functions_2.js</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.1/Doxygen/search/functions_3.html</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.1/Doxygen/search/functions_3.js</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.1/Doxygen/search/functions_4.html</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.1/Doxygen/search/functions_4.js</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.1/Doxygen/search/functions_5.html</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.1/Doxygen/search/functions_5.js</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.1/Doxygen/search/functions_6.html</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.1/Doxygen/search/functions_6.js</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.1/Doxygen/search/functions_7.html</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.1/Doxygen/search/functions_7.js</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.1/Doxygen/search/functions_8.html</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.1/Doxygen/search/functions_8.js</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.1/Doxygen/search/functions_9.html</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.1/Doxygen/search/functions_9.js</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.1/Doxygen/search/functions_a.html</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.1/Doxygen/search/functions_a.js</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.1/Doxygen/search/functions_b.html</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.1/Doxygen/search/functions_b.js</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.1/Doxygen/search/functions_c.html</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.1/Doxygen/search/functions_c.js</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.1/Doxygen/search/functions_d.html</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.1/Doxygen/search/functions_d.js</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.1/Doxygen/search/mag_sel.png</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.1/Doxygen/search/nomatches.html</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.1/Doxygen/search/search.css</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.1/Doxygen/search/search.js</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.1/Doxygen/search/search_l.png</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.1/Doxygen/search/search_m.png</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.1/Doxygen/search/search_r.png</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.1/Doxygen/sync_off.png</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.1/Doxygen/sync_on.png</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.1/Doxygen/tab_a.png</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.1/Doxygen/tab_b.png</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.1/Doxygen/tab_h.png</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.1/Doxygen/tab_s.png</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.1/Doxygen/tabs.css</path>
+            <path action="A" kind="dir">/aomclau2/Assignment1.1/src</path>
+            <path action="A" kind="dir">/aomclau2/Assignment1.1/src/Exceptions</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.1/src/Exceptions/InvalidMovementException.java</path>
+            <path action="A" kind="dir">/aomclau2/Assignment1.1/src/GUI</path>
+            <path action="A" kind="dir">/aomclau2/Assignment1.1/src/GUI/Assets</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.1/src/GUI/Assets/blackBishop.png</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.1/src/GUI/Assets/blackKing.png</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.1/src/GUI/Assets/blackKnight.png</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.1/src/GUI/Assets/blackPawn.png</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.1/src/GUI/Assets/blackQueen.png</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.1/src/GUI/Assets/blackRook.png</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.1/src/GUI/Assets/whiteBishop.png</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.1/src/GUI/Assets/whiteKing.png</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.1/src/GUI/Assets/whiteKnight.png</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.1/src/GUI/Assets/whitePawn.png</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.1/src/GUI/Assets/whiteQueen.png</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.1/src/GUI/Assets/whiteRook.png</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.1/src/GUI/ChessBoardGUI.java</path>
+            <path kind="dir" action="A">/aomclau2/Assignment1.1/src/Game</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.1/src/Game/Board.java</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.1/src/Game/Game.java</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.1/src/Game/Location.java</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.1/src/Game/PieceTypes.java</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.1/src/Game/Player.java</path>
+            <path action="A" kind="dir">/aomclau2/Assignment1.1/src/Pieces</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.1/src/Pieces/Bishop.java</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.1/src/Pieces/King.java</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.1/src/Pieces/Knight.java</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.1/src/Pieces/Pawn.java</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.1/src/Pieces/Piece.java</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.1/src/Pieces/Princess.java</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.1/src/Pieces/Queen.java</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.1/src/Pieces/Rook.java</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.1/src/Pieces/Zergling.java</path>
+            <path action="A" kind="dir">/aomclau2/Assignment1.1/src/Tests</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.1/src/Tests/BishopTests.java</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.1/src/Tests/BoardTests.java</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.1/src/Tests/CheckmateTests.java</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.1/src/Tests/KingTests.java</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.1/src/Tests/KnightTests.java</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.1/src/Tests/PawnTests.java</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.1/src/Tests/QueenTests.java</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.1/src/Tests/RookTests.java</path>
+        </paths>
+        <msg>Assignment 1.1</msg>
+    </logentry>
+    <logentry revision="2823">
+        <author>aomclau2</author>
+        <date>2014-09-12T07:59:22.411172Z</date>
+        <paths>
+            <path action="A" kind="dir">/aomclau2/Assignment1.0</path>
+            <path kind="dir" action="A">/aomclau2/Assignment1.0/.idea</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.0/.idea/.name</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.0/.idea/compiler.xml</path>
+            <path kind="dir" action="A">/aomclau2/Assignment1.0/.idea/copyright</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.0/.idea/copyright/profiles_settings.xml</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.0/.idea/encodings.xml</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.0/.idea/misc.xml</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.0/.idea/modules.xml</path>
+            <path action="A" kind="dir">/aomclau2/Assignment1.0/.idea/scopes</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.0/.idea/scopes/scope_settings.xml</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.0/.idea/uiDesigner.xml</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.0/.idea/vcs.xml</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.0/Assignment1.0.iml</path>
+            <path kind="dir" action="A">/aomclau2/Assignment1.0/src</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.0/src/Bishop.java</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.0/src/BishopTests.java</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.0/src/Board.java</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.0/src/BoardTests.java</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.0/src/Game.java</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.0/src/King.java</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.0/src/KingTests.java</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.0/src/Knight.java</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.0/src/KnightTests.java</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.0/src/Pawn.java</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.0/src/PawnTests.java</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.0/src/Piece.java</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.0/src/Player.java</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.0/src/Queen.java</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.0/src/QueenTests.java</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.0/src/Rook.java</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.0/src/RookTests.java</path>
+        </paths>
+        <msg>Initial commit</msg>
+    </logentry>
+    <logentry revision="2821">
+        <author>aomclau2</author>
+        <date>2014-09-12T07:56:15.455550Z</date>
+        <paths>
+            <path action="D" kind="dir">/aomclau2/Assignment1.0</path>
+        </paths>
+        <msg />
+    </logentry>
+    <logentry revision="2410">
+        <author>aomclau2</author>
+        <date>2014-09-11T06:39:05.263965Z</date>
+        <paths>
+            <path kind="dir" action="A">/aomclau2/Assignment1.0</path>
+            <path kind="dir" action="A">/aomclau2/Assignment1.0/.idea</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.0/.idea/.name</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.0/.idea/compiler.xml</path>
+            <path action="A" kind="dir">/aomclau2/Assignment1.0/.idea/copyright</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.0/.idea/copyright/profiles_settings.xml</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.0/.idea/encodings.xml</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.0/.idea/misc.xml</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.0/.idea/modules.xml</path>
+            <path kind="dir" action="A">/aomclau2/Assignment1.0/.idea/scopes</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.0/.idea/scopes/scope_settings.xml</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.0/.idea/vcs.xml</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.0/Assignment1.0.iml</path>
+            <path kind="dir" action="A">/aomclau2/Assignment1.0/src</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.0/src/Bishop.java</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.0/src/Board.java</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.0/src/BoardTests.java</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.0/src/Game.java</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.0/src/InvalidEndpointException.java</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.0/src/InvalidLeapException.java</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.0/src/InvalidMoveException.java</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.0/src/InvalidOriginException.java</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.0/src/King.java</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.0/src/Knight.java</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.0/src/MovementTests.java</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.0/src/Notes</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.0/src/Pawn.java</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.0/src/Piece.java</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.0/src/Player.java</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.0/src/Queen.java</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.0/src/Rook.java</path>
+        </paths>
+        <msg>Initial commit</msg>
+    </logentry>
+    <logentry revision="2404">
+        <author>aomclau2</author>
+        <date>2014-09-11T06:35:20.280205Z</date>
+        <paths>
+            <path kind="dir" action="D">/aomclau2/src</path>
+        </paths>
+        <msg />
+    </logentry>
+    <logentry revision="2403">
+        <author>aomclau2</author>
+        <date>2014-09-11T06:34:16.629607Z</date>
+        <paths>
+            <path kind="file" action="D">/aomclau2/Assignment1.0.iml</path>
+        </paths>
+        <msg />
+    </logentry>
+    <logentry revision="2402">
+        <author>aomclau2</author>
+        <date>2014-09-11T06:32:57.926041Z</date>
+        <paths>
+            <path kind="dir" action="D">/aomclau2/.idea</path>
+        </paths>
+        <msg />
+    </logentry>
+    <logentry revision="2399">
+        <author>aomclau2</author>
+        <date>2014-09-11T06:31:47.561467Z</date>
+        <paths>
+            <path action="D" kind="dir">/aomclau2/Assignment1.0</path>
+        </paths>
+        <msg />
+    </logentry>
+    <logentry revision="2125">
+        <author>aomclau2</author>
+        <date>2014-09-09T14:50:07.861517Z</date>
+        <paths>
+            <path kind="dir" action="A">/aomclau2/Assignment1.0</path>
+            <path kind="dir" action="A">/aomclau2/Assignment1.0/.idea</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.0/.idea/.name</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.0/.idea/compiler.xml</path>
+            <path action="A" kind="dir">/aomclau2/Assignment1.0/.idea/copyright</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.0/.idea/copyright/profiles_settings.xml</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.0/.idea/encodings.xml</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.0/.idea/misc.xml</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.0/.idea/modules.xml</path>
+            <path kind="dir" action="A">/aomclau2/Assignment1.0/.idea/scopes</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.0/.idea/scopes/scope_settings.xml</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.0/.idea/vcs.xml</path>
+            <path kind="file" action="A">/aomclau2/Assignment1.0/Assignment1.0.iml</path>
+            <path action="A" kind="dir">/aomclau2/Assignment1.0/src</path>
+        </paths>
+        <msg>Initial commit</msg>
+    </logentry>
+    <logentry revision="2124">
+        <author>aomclau2</author>
+        <date>2014-09-09T14:48:57.598444Z</date>
+        <paths>
+            <path action="A" kind="dir">/aomclau2/.idea</path>
+            <path action="A" kind="file">/aomclau2/.idea/.name</path>
+            <path action="A" kind="file">/aomclau2/.idea/compiler.xml</path>
+            <path action="A" kind="dir">/aomclau2/.idea/copyright</path>
+            <path action="A" kind="file">/aomclau2/.idea/copyright/profiles_settings.xml</path>
+            <path kind="file" action="A">/aomclau2/.idea/encodings.xml</path>
+            <path kind="file" action="A">/aomclau2/.idea/misc.xml</path>
+            <path kind="file" action="A">/aomclau2/.idea/modules.xml</path>
+            <path kind="dir" action="A">/aomclau2/.idea/scopes</path>
+            <path kind="file" action="A">/aomclau2/.idea/scopes/scope_settings.xml</path>
+            <path action="A" kind="file">/aomclau2/.idea/vcs.xml</path>
+            <path action="A" kind="file">/aomclau2/Assignment1.0.iml</path>
+            <path action="A" kind="dir">/aomclau2/src</path>
+        </paths>
+        <msg>Initial commit</msg>
+    </logentry>
+    <logentry revision="2039">
+        <author>aomclau2</author>
+        <date>2014-09-07T00:08:49.413303Z</date>
+        <paths>
+            <path action="A" kind="dir">/aomclau2/Assignment0/Part2</path>
+            <path action="A" kind="file">/aomclau2/Assignment0/Part2/.classpath</path>
+            <path action="A" kind="dir">/aomclau2/Assignment0/Part2/.idea</path>
+            <path kind="file" action="A">/aomclau2/Assignment0/Part2/.idea/.name</path>
+            <path kind="file" action="A">/aomclau2/Assignment0/Part2/.idea/compiler.xml</path>
+            <path kind="dir" action="A">/aomclau2/Assignment0/Part2/.idea/copyright</path>
+            <path action="A" kind="file">/aomclau2/Assignment0/Part2/.idea/copyright/profiles_settings.xml</path>
+            <path action="A" kind="file">/aomclau2/Assignment0/Part2/.idea/encodings.xml</path>
+            <path action="A" kind="file">/aomclau2/Assignment0/Part2/.idea/misc.xml</path>
+            <path action="A" kind="file">/aomclau2/Assignment0/Part2/.idea/modules.xml</path>
+            <path action="A" kind="dir">/aomclau2/Assignment0/Part2/.idea/scopes</path>
+            <path kind="file" action="A">/aomclau2/Assignment0/Part2/.idea/scopes/scope_settings.xml</path>
+            <path kind="file" action="A">/aomclau2/Assignment0/Part2/.idea/uiDesigner.xml</path>
+            <path kind="file" action="A">/aomclau2/Assignment0/Part2/.idea/vcs.xml</path>
+            <path kind="file" action="A">/aomclau2/Assignment0/Part2/.project</path>
+            <path kind="dir" action="A">/aomclau2/Assignment0/Part2/.settings</path>
+            <path action="A" kind="file">/aomclau2/Assignment0/Part2/.settings/org.eclipse.jdt.core.prefs</path>
+            <path action="A" kind="file">/aomclau2/Assignment0/Part2/COPYING</path>
+            <path action="A" kind="file">/aomclau2/Assignment0/Part2/HW0.iml</path>
+            <path action="A" kind="dir">/aomclau2/Assignment0/Part2/bin</path>
+            <path action="A" kind="dir">/aomclau2/Assignment0/Part2/bin/lanSimulation</path>
+            <path kind="file" action="A">/aomclau2/Assignment0/Part2/bin/lanSimulation/LANSimulation.class</path>
+            <path kind="file" action="A">/aomclau2/Assignment0/Part2/bin/lanSimulation/Network.class</path>
+            <path kind="dir" action="A">/aomclau2/Assignment0/Part2/bin/lanSimulation/internals</path>
+            <path kind="file" action="A">/aomclau2/Assignment0/Part2/bin/lanSimulation/internals/Node.class</path>
+            <path action="A" kind="file">/aomclau2/Assignment0/Part2/bin/lanSimulation/internals/Packet.class</path>
+            <path action="A" kind="dir">/aomclau2/Assignment0/Part2/bin/lanSimulation/tests</path>
+            <path action="A" kind="file">/aomclau2/Assignment0/Part2/bin/lanSimulation/tests/LANTests$PreconditionViolationTestCase.class</path>
+            <path action="A" kind="file">/aomclau2/Assignment0/Part2/bin/lanSimulation/tests/LANTests.class</path>
+            <path action="A" kind="dir">/aomclau2/Assignment0/Part2/doc</path>
+            <path kind="file" action="A">/aomclau2/Assignment0/Part2/doc/LANSimulationDocument.pdf</path>
+            <path kind="file" action="A">/aomclau2/Assignment0/Part2/doc/README</path>
+            <path kind="file" action="A">/aomclau2/Assignment0/Part2/doc/RefactoringAssignment.pdf</path>
+            <path kind="file" action="A">/aomclau2/Assignment0/Part2/doc/toDoList</path>
+            <path kind="file" action="A">/aomclau2/Assignment0/Part2/expectedOutput.txt</path>
+            <path action="A" kind="file">/aomclau2/Assignment0/Part2/javadoc.xml</path>
+            <path action="A" kind="dir">/aomclau2/Assignment0/Part2/src</path>
+            <path action="A" kind="dir">/aomclau2/Assignment0/Part2/src/lanSimulation</path>
+            <path action="A" kind="file">/aomclau2/Assignment0/Part2/src/lanSimulation/LANSimulation.java</path>
+            <path action="A" kind="file">/aomclau2/Assignment0/Part2/src/lanSimulation/Network.java</path>
+            <path action="A" kind="dir">/aomclau2/Assignment0/Part2/src/lanSimulation/internals</path>
+            <path kind="file" action="A">/aomclau2/Assignment0/Part2/src/lanSimulation/internals/Node.java</path>
+            <path kind="file" action="A">/aomclau2/Assignment0/Part2/src/lanSimulation/internals/Packet.java</path>
+            <path kind="dir" action="A">/aomclau2/Assignment0/Part2/src/lanSimulation/tests</path>
+            <path kind="file" action="A">/aomclau2/Assignment0/Part2/src/lanSimulation/tests/LANTests.java</path>
+            <path action="A" kind="file">/aomclau2/Assignment0/Part2/useOutput.txt</path>
+        </paths>
+        <msg>HW0 Part 2 Complete</msg>
+    </logentry>
+    <logentry revision="2037">
+        <author>aomclau2</author>
+        <date>2014-09-06T23:17:48.792794Z</date>
+        <paths>
+            <path action="D" kind="file">/aomclau2/javadoc.xml</path>
+        </paths>
+        <msg />
+    </logentry>
+    <logentry revision="2036">
+        <author>aomclau2</author>
+        <date>2014-09-06T23:17:31.850759Z</date>
+        <paths>
+            <path action="D" kind="file">/aomclau2/useOutput.txt</path>
+        </paths>
+        <msg />
+    </logentry>
+    <logentry revision="2035">
+        <author>aomclau2</author>
+        <date>2014-09-06T23:17:16.712430Z</date>
+        <paths>
+            <path kind="dir" action="D">/aomclau2/src</path>
+        </paths>
+        <msg />
+    </logentry>
+    <logentry revision="2034">
+        <author>aomclau2</author>
+        <date>2014-09-06T23:17:07.776995Z</date>
+        <paths>
+            <path action="D" kind="file">/aomclau2/expectedOutput.txt</path>
+        </paths>
+        <msg />
+    </logentry>
+    <logentry revision="2033">
+        <author>aomclau2</author>
+        <date>2014-09-06T23:16:55.189362Z</date>
+        <paths>
+            <path action="D" kind="dir">/aomclau2/doc</path>
+        </paths>
+        <msg />
+    </logentry>
+    <logentry revision="2032">
+        <author>aomclau2</author>
+        <date>2014-09-06T23:16:29.465499Z</date>
+        <paths>
+            <path action="D" kind="dir">/aomclau2/bin</path>
+        </paths>
+        <msg />
+    </logentry>
+    <logentry revision="2031">
+        <author>aomclau2</author>
+        <date>2014-09-06T23:16:17.833228Z</date>
+        <paths>
+            <path kind="file" action="D">/aomclau2/HW0.iml</path>
+        </paths>
+        <msg />
+    </logentry>
+    <logentry revision="2030">
+        <author>aomclau2</author>
+        <date>2014-09-06T23:16:02.702181Z</date>
+        <paths>
+            <path kind="file" action="D">/aomclau2/COPYING</path>
+        </paths>
+        <msg />
+    </logentry>
+    <logentry revision="2029">
+        <author>aomclau2</author>
+        <date>2014-09-06T23:15:50.958502Z</date>
+        <paths>
+            <path action="D" kind="dir">/aomclau2/.settings</path>
+        </paths>
+        <msg />
+    </logentry>
+    <logentry revision="2028">
+        <author>aomclau2</author>
+        <date>2014-09-06T23:15:37.232102Z</date>
+        <paths>
+            <path action="D" kind="file">/aomclau2/.project</path>
+        </paths>
+        <msg />
+    </logentry>
+    <logentry revision="2027">
+        <author>aomclau2</author>
+        <date>2014-09-06T23:15:24.066128Z</date>
+        <paths>
+            <path action="D" kind="dir">/aomclau2/.idea</path>
+        </paths>
+        <msg />
+    </logentry>
+    <logentry revision="2026">
+        <author>aomclau2</author>
+        <date>2014-09-06T23:15:09.262386Z</date>
+        <paths>
+            <path kind="file" action="D">/aomclau2/.classpath</path>
+        </paths>
+        <msg />
+    </logentry>
+    <logentry revision="2025">
+        <author>aomclau2</author>
+        <date>2014-09-06T23:13:44.903067Z</date>
+        <paths>
+            <path kind="dir" action="A">/aomclau2/HW0</path>
+            <path kind="file" action="A">/aomclau2/HW0/.classpath</path>
+            <path action="A" kind="dir">/aomclau2/HW0/.idea</path>
+            <path action="A" kind="file">/aomclau2/HW0/.idea/.name</path>
+            <path action="A" kind="file">/aomclau2/HW0/.idea/compiler.xml</path>
+            <path action="A" kind="dir">/aomclau2/HW0/.idea/copyright</path>
+            <path action="A" kind="file">/aomclau2/HW0/.idea/copyright/profiles_settings.xml</path>
+            <path kind="file" action="A">/aomclau2/HW0/.idea/encodings.xml</path>
+            <path kind="file" action="A">/aomclau2/HW0/.idea/misc.xml</path>
+            <path kind="file" action="A">/aomclau2/HW0/.idea/modules.xml</path>
+            <path kind="dir" action="A">/aomclau2/HW0/.idea/scopes</path>
+            <path kind="file" action="A">/aomclau2/HW0/.idea/scopes/scope_settings.xml</path>
+            <path action="A" kind="file">/aomclau2/HW0/.idea/vcs.xml</path>
+            <path action="A" kind="file">/aomclau2/HW0/.project</path>
+            <path action="A" kind="dir">/aomclau2/HW0/.settings</path>
+            <path action="A" kind="file">/aomclau2/HW0/.settings/org.eclipse.jdt.core.prefs</path>
+            <path action="A" kind="file">/aomclau2/HW0/COPYING</path>
+            <path kind="file" action="A">/aomclau2/HW0/HW0.iml</path>
+            <path kind="dir" action="A">/aomclau2/HW0/bin</path>
+            <path kind="dir" action="A">/aomclau2/HW0/bin/lanSimulation</path>
+            <path kind="file" action="A">/aomclau2/HW0/bin/lanSimulation/LANSimulation.class</path>
+            <path kind="file" action="A">/aomclau2/HW0/bin/lanSimulation/Network.class</path>
+            <path action="A" kind="dir">/aomclau2/HW0/bin/lanSimulation/internals</path>
+            <path action="A" kind="file">/aomclau2/HW0/bin/lanSimulation/internals/Node.class</path>
+            <path action="A" kind="file">/aomclau2/HW0/bin/lanSimulation/internals/Packet.class</path>
+            <path action="A" kind="dir">/aomclau2/HW0/bin/lanSimulation/tests</path>
+            <path action="A" kind="file">/aomclau2/HW0/bin/lanSimulation/tests/LANTests$PreconditionViolationTestCase.class</path>
+            <path kind="file" action="A">/aomclau2/HW0/bin/lanSimulation/tests/LANTests.class</path>
+            <path kind="dir" action="A">/aomclau2/HW0/doc</path>
+            <path kind="file" action="A">/aomclau2/HW0/doc/LANSimulationDocument.pdf</path>
+            <path kind="file" action="A">/aomclau2/HW0/doc/README</path>
+            <path kind="file" action="A">/aomclau2/HW0/doc/RefactoringAssignment.pdf</path>
+            <path action="A" kind="file">/aomclau2/HW0/doc/toDoList</path>
+            <path action="A" kind="file">/aomclau2/HW0/expectedOutput.txt</path>
+            <path action="A" kind="file">/aomclau2/HW0/javadoc.xml</path>
+            <path action="A" kind="dir">/aomclau2/HW0/src</path>
+            <path action="A" kind="dir">/aomclau2/HW0/src/lanSimulation</path>
+            <path kind="file" action="A">/aomclau2/HW0/src/lanSimulation/LANSimulation.java</path>
+            <path kind="file" action="A">/aomclau2/HW0/src/lanSimulation/Network.java</path>
+            <path kind="dir" action="A">/aomclau2/HW0/src/lanSimulation/internals</path>
+            <path kind="file" action="A">/aomclau2/HW0/src/lanSimulation/internals/Node.java</path>
+            <path kind="file" action="A">/aomclau2/HW0/src/lanSimulation/internals/Packet.java</path>
+            <path action="A" kind="dir">/aomclau2/HW0/src/lanSimulation/tests</path>
+            <path action="A" kind="file">/aomclau2/HW0/src/lanSimulation/tests/LANTests.java</path>
+            <path action="A" kind="file">/aomclau2/HW0/useOutput.txt</path>
+        </paths>
+        <msg>HW0 initial commit</msg>
+    </logentry>
+    <logentry revision="2024">
+        <author>aomclau2</author>
+        <date>2014-09-06T23:12:28.881840Z</date>
+        <paths>
+            <path action="A" kind="file">/aomclau2/.classpath</path>
+            <path kind="dir" action="A">/aomclau2/.idea</path>
+            <path kind="file" action="A">/aomclau2/.idea/.name</path>
+            <path kind="file" action="A">/aomclau2/.idea/compiler.xml</path>
+            <path action="A" kind="dir">/aomclau2/.idea/copyright</path>
+            <path action="A" kind="file">/aomclau2/.idea/copyright/profiles_settings.xml</path>
+            <path action="A" kind="file">/aomclau2/.idea/encodings.xml</path>
+            <path action="A" kind="file">/aomclau2/.idea/misc.xml</path>
+            <path action="A" kind="file">/aomclau2/.idea/modules.xml</path>
+            <path action="A" kind="dir">/aomclau2/.idea/scopes</path>
+            <path kind="file" action="A">/aomclau2/.idea/scopes/scope_settings.xml</path>
+            <path kind="file" action="A">/aomclau2/.idea/vcs.xml</path>
+            <path kind="file" action="A">/aomclau2/.project</path>
+            <path kind="dir" action="A">/aomclau2/.settings</path>
+            <path kind="file" action="A">/aomclau2/.settings/org.eclipse.jdt.core.prefs</path>
+            <path action="A" kind="file">/aomclau2/COPYING</path>
+            <path action="A" kind="file">/aomclau2/HW0.iml</path>
+            <path action="A" kind="dir">/aomclau2/bin</path>
+            <path action="A" kind="dir">/aomclau2/bin/lanSimulation</path>
+            <path action="A" kind="file">/aomclau2/bin/lanSimulation/LANSimulation.class</path>
+            <path kind="file" action="A">/aomclau2/bin/lanSimulation/Network.class</path>
+            <path kind="dir" action="A">/aomclau2/bin/lanSimulation/internals</path>
+            <path kind="file" action="A">/aomclau2/bin/lanSimulation/internals/Node.class</path>
+            <path kind="file" action="A">/aomclau2/bin/lanSimulation/internals/Packet.class</path>
+            <path kind="dir" action="A">/aomclau2/bin/lanSimulation/tests</path>
+            <path action="A" kind="file">/aomclau2/bin/lanSimulation/tests/LANTests$PreconditionViolationTestCase.class</path>
+            <path action="A" kind="file">/aomclau2/bin/lanSimulation/tests/LANTests.class</path>
+            <path action="A" kind="dir">/aomclau2/doc</path>
+            <path action="A" kind="file">/aomclau2/doc/LANSimulationDocument.pdf</path>
+            <path action="A" kind="file">/aomclau2/doc/README</path>
+            <path kind="file" action="A">/aomclau2/doc/RefactoringAssignment.pdf</path>
+            <path kind="file" action="A">/aomclau2/doc/toDoList</path>
+            <path kind="file" action="A">/aomclau2/expectedOutput.txt</path>
+            <path kind="file" action="A">/aomclau2/javadoc.xml</path>
+            <path kind="dir" action="A">/aomclau2/src</path>
+            <path action="A" kind="dir">/aomclau2/src/lanSimulation</path>
+            <path action="A" kind="file">/aomclau2/src/lanSimulation/LANSimulation.java</path>
+            <path action="A" kind="file">/aomclau2/src/lanSimulation/Network.java</path>
+            <path action="A" kind="dir">/aomclau2/src/lanSimulation/internals</path>
+            <path action="A" kind="file">/aomclau2/src/lanSimulation/internals/Node.java</path>
+            <path kind="file" action="A">/aomclau2/src/lanSimulation/internals/Packet.java</path>
+            <path kind="dir" action="A">/aomclau2/src/lanSimulation/tests</path>
+            <path kind="file" action="A">/aomclau2/src/lanSimulation/tests/LANTests.java</path>
+            <path kind="file" action="A">/aomclau2/useOutput.txt</path>
+        </paths>
+        <msg>HW0 initial commit</msg>
+    </logentry>
+    <logentry revision="2023">
+        <author>aomclau2</author>
+        <date>2014-09-06T22:56:27.855282Z</date>
+        <paths>
+            <path action="D" kind="dir">/aomclau2/grocery</path>
+            <path kind="dir" copyfrom-path="/aomclau2/grocery" copyfrom-rev="2022" action="A">/aomclau2/shopping</path>
+        </paths>
+        <msg>moved to shopping</msg>
+    </logentry>
+    <logentry revision="2022">
+        <author>aomclau2</author>
+        <date>2014-09-06T22:54:07.575199Z</date>
+        <paths>
+            <path kind="file" action="M">/aomclau2/grocery/list2.txt</path>
+        </paths>
+        <msg />
+    </logentry>
+    <logentry revision="2021">
+        <author>aomclau2</author>
+        <date>2014-09-06T22:50:21.422346Z</date>
+        <paths>
+            <path kind="file" action="M">/aomclau2/grocery/list2.txt</path>
+        </paths>
+        <msg />
+    </logentry>
+    <logentry revision="2020">
+        <author>aomclau2</author>
+        <date>2014-09-06T22:45:21.550470Z</date>
+        <paths>
+            <path kind="file" action="M">/aomclau2/grocery/list2.txt</path>
+        </paths>
+        <msg />
+    </logentry>
+    <logentry revision="2019">
+        <author>aomclau2</author>
+        <date>2014-09-06T22:42:34.113831Z</date>
+        <paths>
+            <path kind="file" action="M">/aomclau2/grocery/list1.txt</path>
+        </paths>
+        <msg />
+    </logentry>
+    <logentry revision="2018">
+        <author>aomclau2</author>
+        <date>2014-09-06T22:40:00.594391Z</date>
+        <paths>
+            <path action="D" kind="dir">/aomclau2/grocery/grocery</path>
+        </paths>
+        <msg />
+    </logentry>
+    <logentry revision="2017">
+        <author>aomclau2</author>
+        <date>2014-09-06T22:39:48.514677Z</date>
+        <paths>
+            <path action="D" kind="file">/aomclau2/grocery/grocery/list2.txt</path>
+            <path action="A" kind="file" copyfrom-path="/aomclau2/grocery/grocery/list2.txt" copyfrom-rev="2016">/aomclau2/grocery/list2.txt</path>
+        </paths>
+        <msg />
+    </logentry>
+    <logentry revision="2016">
+        <author>aomclau2</author>
+        <date>2014-09-06T22:39:23.762236Z</date>
+        <paths>
+            <path action="D" kind="file">/aomclau2/grocery/grocery/list1.txt</path>
+            <path kind="file" copyfrom-path="/aomclau2/grocery/grocery/list1.txt" copyfrom-rev="2015" action="A">/aomclau2/grocery/list1.txt</path>
+        </paths>
+        <msg />
+    </logentry>
+    <logentry revision="2015">
+        <author>aomclau2</author>
+        <date>2014-09-06T22:37:40.215979Z</date>
+        <paths>
+            <path action="D" kind="dir">/aomclau2/grocery/Assignment0</path>
+        </paths>
+        <msg />
+    </logentry>
+    <logentry revision="2014">
+        <author>aomclau2</author>
+        <date>2014-09-06T22:35:50.287135Z</date>
+        <paths>
+            <path action="A" kind="dir">/aomclau2/grocery</path>
+            <path kind="dir" action="A">/aomclau2/grocery/Assignment0</path>
+            <path kind="file" action="A">/aomclau2/grocery/Assignment0/msort.c</path>
+            <path kind="dir" action="A">/aomclau2/grocery/grocery</path>
+            <path kind="file" action="A">/aomclau2/grocery/grocery/list1.txt</path>
+            <path kind="file" action="A">/aomclau2/grocery/grocery/list2.txt</path>
+        </paths>
+        <msg>importing</msg>
+    </logentry>
+    <logentry revision="2013">
+        <author>aomclau2</author>
+        <date>2014-09-06T22:33:29.336574Z</date>
+        <paths>
+            <path kind="dir" action="D">/aomclau2/grocery</path>
+        </paths>
+        <msg />
+    </logentry>
+    <logentry revision="2012">
+        <author>aomclau2</author>
+        <date>2014-09-06T22:30:13.715494Z</date>
+        <paths>
+            <path kind="file" action="M">/aomclau2/grocery/list2.txt</path>
+        </paths>
+        <msg />
+    </logentry>
+    <logentry revision="2011">
+        <author>aomclau2</author>
+        <date>2014-09-06T22:27:21.301691Z</date>
+        <paths>
+            <path kind="file" action="M">/aomclau2/grocery/list2.txt</path>
+        </paths>
+        <msg />
+    </logentry>
+    <logentry revision="2010">
+        <author>aomclau2</author>
+        <date>2014-09-06T22:25:01.130230Z</date>
+        <paths>
+            <path action="M" kind="file">/aomclau2/grocery/list1.txt</path>
+        </paths>
+        <msg />
+    </logentry>
+    <logentry revision="2009">
+        <author>aomclau2</author>
+        <date>2014-09-06T22:20:17.356898Z</date>
+        <paths>
+            <path kind="dir" action="A">/aomclau2/grocery</path>
+            <path kind="file" action="A">/aomclau2/grocery/list1.txt</path>
+            <path action="A" kind="file">/aomclau2/grocery/list2.txt</path>
+        </paths>
+        <msg />
+    </logentry>
+    <logentry revision="1907">
+        <author>aomclau2</author>
+        <date>2014-09-05T18:17:58.131872Z</date>
+        <paths>
+            <path kind="file" action="D">/aomclau2/msort.c</path>
+        </paths>
+        <msg />
+    </logentry>
+    <logentry revision="1904">
+        <author>aomclau2</author>
+        <date>2014-09-05T18:16:06.099743Z</date>
+        <paths>
+            <path action="A" kind="dir">/aomclau2/Assignment0</path>
+            <path action="A" kind="file">/aomclau2/Assignment0/msort.c</path>
+        </paths>
+        <msg>meowww</msg>
+    </logentry>
+    <logentry revision="1889">
+        <author>aomclau2</author>
+        <date>2014-09-05T17:58:01.738362Z</date>
+        <paths>
+            <path action="A" kind="file">/aomclau2/msort.c</path>
+        </paths>
+        <msg>hi</msg>
+    </logentry>
+    <logentry revision="14">
+        <author>root</author>
+        <date>2014-09-02T17:45:09.674654Z</date>
+        <paths>
+            <path kind="dir" action="A">/aomclau2</path>
+        </paths>
+        <msg>created directory aomclau2</msg>
+    </logentry>
+</log>

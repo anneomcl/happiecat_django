@@ -1,0 +1,3 @@
+Bootstrap Templates:
+http://startbootstrap.com/template-overviews/clean-blog/
+http://startbootstrap.com/template-overviews/1-col-portfolio/

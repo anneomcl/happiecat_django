@@ -1,0 +1,296 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>Happie Cat - Portfolio</title>
+
+    {% load staticfiles %}
+
+    <!-- Bootstrap Core CSS -->
+    <link href="{% static 'home/css/bootstrap.min.css' %}" rel="stylesheet">
+
+    <link href="{% static 'home/css/bootstrap.css' %}" rel="stylesheet">
+
+    <!-- Custom CSS -->
+    <link href="{% static 'home/css/clean-blog.min.css' %}" rel="stylesheet">
+
+    <link href="{% static 'home/css/clean-blog.css' %}" rel="stylesheet">
+
+    <link href="{% static 'home/css/post.css' %}" rel="stylesheet">
+
+    <!-- Custom Fonts -->
+    <link href="http://maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link href='http://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800' rel='stylesheet' type='text/css'>
+
+    <!-- jQuery -->
+    <script src="{% static 'home/js/jquery.min.js' %}"></script>
+
+    <!-- Bootstrap Core JavaScript -->
+    <script src="{% static 'home/js/bootstrap.min.js' %}"></script>
+
+    <!-- Custom Theme JavaScript -->
+   <!--- <script src="{% static 'home/js/clean-blog.min.js' %}"></script>--->
+
+    <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+    <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+
+
+</head>
+
+<body>
+
+<!-- Navigation -->
+<nav class="navbar navbar-default navbar-custom navbar-fixed-top">
+    <div class="container-fluid">
+    <div class="container-fluid">
+        <!-- Brand and toggle get grouped for better mobile display -->
+        <div class="navbar-header page-scroll">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand" href="index.html">Happie Cat</a>
+        </div>
+
+        <!-- Collect the nav links, forms, and other content for toggling -->
+        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+            <ul class="nav navbar-nav navbar-right">
+                <li>
+                    <a href="index.html">Home</a>
+                </li>
+                <li>
+                    <a href="about.html">About</a>
+                </li>
+                <li>
+                    <a href="post.html">Portfolio</a>
+                </li>
+                <li>
+                    <a href="contact.html">Contact</a>
+                </li>
+            </ul>
+        </div>
+        <!-- /.navbar-collapse -->
+    </div>
+    <!-- /.container -->
+</nav>
+
+<!-- Page Header -->
+<!-- Set your background image for this header on the line below. -->
+<header class="intro-header">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+                <div class="post-heading">
+                    <h1>My Portfolio</h1>
+                    <h2 class="subheading">games, projects, hacks.</h2>
+                </div>
+            </div>
+        </div>
+    </div>
+</header>
+
+<!-- Page Content -->
+<div class="container">
+
+    <!-- Page Heading -->
+    <div class="row">
+        <div class="col-lg-12">
+            <h1 class="page-header">Projects
+                <small>CS242</small>
+            </h1>
+        </div>
+    </div>
+    <!-- /.row -->
+
+    <!-- Project One -->
+    <div class="row">
+        <div class="col-md-7">
+            <a href="#">
+                <img class="img-responsive" src="{{STATIC_URL}}home/img/chess-screen.png">
+            </a>
+        </div>
+        <div class="col-md-5">
+            <h3>{{ project_0 }}</h3>
+            <h4>Subheading</h4>
+            <p>Revision: {{revision_0}}</p>
+            <p>Author: {{author_0}}</p>
+            <p>Date: {{date_0}}</p>
+            <a class="btn btn-primary" href="project0.html">View Project <span class="glyphicon glyphicon-chevron-right"></span></a>
+            <form action="#" method="get">
+                <input type="text" name="commentBox" style="background-color:white;
+                                                          border: solid 1px #6E6E6E;
+                                                          height: 30px;
+                                                          font-size:18px;
+                                                          vertical-align:9px;color:#000" />
+                <input type="submit" class="btn" value="Post" name="Post" />
+            </form>
+        </div>
+    </div>
+    <!-- /.row -->
+
+    <hr>
+
+    <!-- Project Two -->
+    <div class="row">
+        <div class="col-md-7">
+            <a href="#">
+                <img class="img-responsive" src="{{STATIC_URL}}home/img/chess-screen.png">
+            </a>
+        </div>
+        <div class="col-md-5">
+            <h3>{{ project_1 }}</h3>
+            <h4>Subheading</h4>
+            <p>Revision: {{revision_1}}</p>
+            <p>Author: {{author_1}}</p>
+            <p>Date: {{date_1}}</p>
+            <a class="btn btn-primary" href="#">View Project <span class="glyphicon glyphicon-chevron-right"></span></a>
+        </div>
+    </div>
+    <!-- /.row -->
+
+    <hr>
+
+    <!-- Project Three -->
+    <div class="row">
+        <div class="col-md-7">
+            <a href="#">
+                <img class="img-responsive" src="{{STATIC_URL}}home/img/chess-screen.png">
+            </a>
+        </div>
+        <div class="col-md-5">
+            <h3>{{project_2}}</h3>
+            <h4>Subheading</h4>
+            <p>Revision: {{revision_2}}</p>
+            <p>Author: {{author_2}}</p>
+            <p>Date: {{date_2}}</p>
+            <a class="btn btn-primary" href="#">View Project <span class="glyphicon glyphicon-chevron-right"></span></a>
+        </div>
+    </div>
+    <!-- /.row -->
+
+    <hr>
+
+    <!-- Project Four -->
+    <div class="row">
+
+        <div class="col-md-7">
+            <a href="#">
+                <img class="img-responsive" src="{{STATIC_URL}}home/img/csair.png">
+            </a>
+        </div>
+        <div class="col-md-5">
+            <h3>{{project_3}}</h3>
+            <h4>Subheading</h4>
+            <p>Revision: {{revision_3}}</p>
+            <p>Author: {{author_3}}</p>
+            <p>Date: {{date_3}}</p>
+            <a class="btn btn-primary" href="#">View Project <span class="glyphicon glyphicon-chevron-right"></span></a>
+        </div>
+    </div>
+    <!-- /.row -->
+
+    <hr>
+
+    <!-- Project Five -->
+    <div class="row">
+        <div class="col-md-7">
+            <a href="#">
+                <img class="img-responsive" src="{{STATIC_URL}}home/img/csair.png">
+            </a>
+        </div>
+        <div class="col-md-5">
+            <h3>{{project_4}}</h3>
+            <h4>Subheading</h4>
+            <p>Revision: {{revision_4}}</p>
+            <p>Author: {{author_4}}</p>
+            <p>Date: {{date_4}}</p>
+            <a class="btn btn-primary" href="#">View Project <span class="glyphicon glyphicon-chevron-right"></span></a>
+        </div>
+    </div>
+    <!-- /.row -->
+
+    <hr>
+
+    <!-- Pagination -->
+    <div class="row text-center">
+        <div class="col-lg-12">
+            <ul class="pagination">
+                <li>
+                    <a href="#">&laquo;</a>
+                </li>
+                <li class="active">
+                    <a href="#">1</a>
+                </li>
+                <li>
+                    <a href="#">2</a>
+                </li>
+                <li>
+                    <a href="#">3</a>
+                </li>
+                <li>
+                    <a href="#">4</a>
+                </li>
+                <li>
+                    <a href="#">5</a>
+                </li>
+                <li>
+                    <a href="#">&raquo;</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+    <!-- /.row -->
+
+    <hr>
+
+    <!-- Footer -->
+    <footer>
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+                    <ul class="list-inline text-center">
+                        <li>
+                            <a href="http://twitter.com/AnneOMcLaughlin">
+                                <span class="fa-stack fa-lg">
+                                    <i class="fa fa-circle fa-stack-2x"></i>
+                                    <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
+                                </span>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="http://facebook.com/happiecat">
+                                <span class="fa-stack fa-lg">
+                                    <i class="fa fa-circle fa-stack-2x"></i>
+                                    <i class="fa fa-facebook fa-stack-1x fa-inverse"></i>
+                                </span>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="http://github.com/anneomcl">
+                                <span class="fa-stack fa-lg">
+                                    <i class="fa fa-circle fa-stack-2x"></i>
+                                    <i class="fa fa-github fa-stack-1x fa-inverse"></i>
+                                </span>
+                            </a>
+                        </li>
+                    </ul>
+                    <p class="copyright text-muted">Copyright &copy; Your Website 2014</p>
+                </div>
+            </div>
+        </div>
+    </footer>
+</div>
+
+</body>
+
+</html>
