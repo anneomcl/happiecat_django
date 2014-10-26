@@ -8,6 +8,7 @@ from home import sql_handler
 #from django.http import HttpResponse
 log_entries = []
 list_entries = []
+post_count = 0
 
 
 def index(request):
@@ -45,8 +46,11 @@ def post(request):
                                           'kind' : child1.attrib['kind']}))
     context = {}
     if(request.GET.get('Post')):
-        print("HI")
-        sql_handler.insert(7,8, request.GET.get('commentBox'), "Anne")
+        global post_count
+        txt = sql_handler.insert(post_count, post_count, request.GET.get('commentBox'), "Anne")
+        post_count+=1
+        print(post_count)
+        context['comment'] = txt
         return render(request, 'home/post.html', context)
 
     i=0

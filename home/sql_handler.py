@@ -3,7 +3,7 @@ from django.db import connection
 def insert(a,b,c,d):
     tester = connection.cursor()
     tester.execute("INSERT INTO home_comment (comment_id, op_id, comment_text, author) VALUES ( %s, %s, %s, %s)", [a,b,c,d])
-    return id
+    return c
 
 '''def delete(a):
     tester = connection.cursor()
